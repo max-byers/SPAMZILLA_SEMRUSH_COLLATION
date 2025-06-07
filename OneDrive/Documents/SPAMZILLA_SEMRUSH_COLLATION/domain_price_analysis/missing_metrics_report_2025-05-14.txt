@@ -1,0 +1,78 @@
+Missing Metrics Analysis Report - 2025-05-14
+==================================================
+
+
+AS:
+- Column not found in the dataset
+
+DA:
+- Column not found in the dataset
+
+DR:
+- Column not found in the dataset
+
+UR:
+- Column not found in the dataset
+
+TF:
+- Total domains: 609
+- Missing data: 0 (0.00%)
+
+CF:
+- Total domains: 609
+- Missing data: 0 (0.00%)
+
+S RD:
+- Column not found in the dataset
+
+M RD:
+- Column not found in the dataset
+
+A RD:
+- Column not found in the dataset
+
+S BL:
+- Column not found in the dataset
+
+M BL:
+- Column not found in the dataset
+
+A BL:
+- Column not found in the dataset
+
+IP'S:
+- Column not found in the dataset
+
+SZ:
+- Column not found in the dataset
+
+Variance:
+- Column not found in the dataset
+
+Follow %:
+- Column not found in the dataset
+
+S (BL/RD):
+- Column not found in the dataset
+
+M (BL/RD):
+- Column not found in the dataset
+
+Age:
+- Total domains: 609
+- Missing data: 0 (0.00%)
+
+Indexed:
+- Column not found in the dataset
+
+Drops:
+- Column not found in the dataset
+
+MT:
+- Column not found in the dataset
+
+English %:
+- Column not found in the dataset
+
+Expiry:
+- Column not found in the dataset

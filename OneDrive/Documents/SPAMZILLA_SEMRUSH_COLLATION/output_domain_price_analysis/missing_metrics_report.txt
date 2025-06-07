@@ -1,0 +1,392 @@
+MISSING METRICS ANALYSIS REPORT
+=============================
+
+Total Domains Analyzed: 59
+Domains with Missing Metrics: 49
+Percentage of Domains with Missing Data: 83.05%
+
+MISSING METRICS BY COLUMN
+------------------------
+Source: 14 missing values (23.73%)
+DA: 3 missing values (5.08%)
+AS: 20 missing values (33.90%)
+DR: 15 missing values (25.42%)
+UR: 17 missing values (28.81%)
+TF: 0 missing values (0.00%)
+CF: 0 missing values (0.00%)
+S RD: 10 missing values (16.95%)
+M RD: 0 missing values (0.00%)
+A RD: 16 missing values (27.12%)
+S BL: 10 missing values (16.95%)
+M BL: 0 missing values (0.00%)
+A BL: 16 missing values (27.12%)
+IP'S: 20 missing values (33.90%)
+SZ: 23 missing values (38.98%)
+Variance: 10 missing values (16.95%)
+S (BL/RD): 0 missing values (0.00%)
+M (BL/RD): 0 missing values (0.00%)
+Age: 15 missing values (25.42%)
+Expiry: 0 missing values (0.00%)
+Price: 23 missing values (38.98%)
+
+DETAILED DOMAIN REPORT
+---------------------
+
+Domain: re-bin.com
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: theseomarketingcompany.com
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+- Price
+
+Domain: mytechletter.com
+Missing Metrics:
+- SZ
+- Price
+
+Domain: vetgrad.com
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: equityatthetable.com
+Missing Metrics:
+- SZ
+
+Domain: positiveinvest.org
+Missing Metrics:
+- Source
+
+Domain: saveourfaves.org
+Missing Metrics:
+- Source
+
+Domain: dawave.com
+Missing Metrics:
+- Source
+
+Domain: bodieontheroad.com
+Missing Metrics:
+- Source
+- UR
+
+Domain: mysmallwall.com
+Missing Metrics:
+- Source
+- DA
+
+Domain: profilecritics.com
+Missing Metrics:
+- Source
+- DA
+- A RD
+- A BL
+
+Domain: handcraftingwithlove.net
+Missing Metrics:
+- Source
+- DA
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: wrc-gh.org
+Missing Metrics:
+- Source
+
+Domain: forthebenefitofallbeings.com
+Missing Metrics:
+- Source
+
+Domain: visualizeyourlearning.com
+Missing Metrics:
+- Source
+
+Domain: converticulture.com
+Missing Metrics:
+- Source
+
+Domain: socialwod.com
+Missing Metrics:
+- Source
+
+Domain: learningdevelopmentconference.com
+Missing Metrics:
+- Source
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: mybloggingthing.com
+Missing Metrics:
+- Source
+- UR
+
+Domain: squareorganics.com
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: madnessmusepress.com
+Missing Metrics:
+- Price
+
+Domain: accidentaltheologist.com
+Missing Metrics:
+- AS
+- IP'S
+- SZ
+- Variance
+
+Domain: community-of-joy.org
+Missing Metrics:
+- Price
+
+Domain: godblessrareform.com
+Missing Metrics:
+- AS
+- IP'S
+- Variance
+- Price
+
+Domain: asyoustay.com
+Missing Metrics:
+- AS
+- IP'S
+- SZ
+- Variance
+
+Domain: actonadream.org
+Missing Metrics:
+- AS
+- DR
+- UR
+- A RD
+- A BL
+- IP'S
+- SZ
+- Variance
+- Age
+- Price
+
+Domain: office-archive.com
+Missing Metrics:
+- AS
+- DR
+- UR
+- A RD
+- A BL
+- IP'S
+- SZ
+- Variance
+- Age
+- Price
+
+Domain: residential-homes.net
+Missing Metrics:
+- AS
+- IP'S
+- Variance
+- Price
+
+Domain: directcommercemagazine.com
+Missing Metrics:
+- AS
+- IP'S
+- Variance
+- Price
+
+Domain: joyofenjoy.com
+Missing Metrics:
+- AS
+- IP'S
+- Variance
+
+Domain: carbonandmore.com
+Missing Metrics:
+- AS
+- IP'S
+- Variance
+- Price
+
+Domain: theveghub.com
+Missing Metrics:
+- AS
+- IP'S
+- Variance
+- Price
+
+Domain: eaze.net
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: letmedia.org
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+- Price
+
+Domain: wizardrecipes.com
+Missing Metrics:
+- SZ
+
+Domain: mikescourtside.com
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: enjoyceres.com
+Missing Metrics:
+- SZ
+
+Domain: workingminds.org
+Missing Metrics:
+- DR
+- UR
+- A RD
+- A BL
+- SZ
+- Age
+
+Domain: lvdive.com
+Missing Metrics:
+- Price
+
+Domain: righttorecovery.org
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- Price
+
+Domain: letzdesign.com
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- Price
+
+Domain: frostlab.org
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- Price
+
+Domain: itrunsinmyfamily.com
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- Price
+
+Domain: modularhomeplace.com
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- Price
+
+Domain: plantbelly.com
+Missing Metrics:
+- AS
+- DR
+- UR
+- S RD
+- A RD
+- S BL
+- A BL
+- IP'S
+- SZ
+- Age
+- Price
+
+Domain: requitedjournal.com
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- SZ
+- Price
+
+Domain: oppforyouth.org
+Missing Metrics:
+- AS
+- DR
+- UR
+- S RD
+- A RD
+- S BL
+- A BL
+- IP'S
+- SZ
+- Age
+- Price
+
+Domain: hubdesignsmagazine.com
+Missing Metrics:
+- AS
+- S RD
+- S BL
+- IP'S
+- SZ
+- Price
+
+Domain: altconservative.com
+Missing Metrics:
+- AS
+- DR
+- UR
+- S RD
+- A RD
+- S BL
+- A BL
+- IP'S
+- SZ
+- Age
+- Price

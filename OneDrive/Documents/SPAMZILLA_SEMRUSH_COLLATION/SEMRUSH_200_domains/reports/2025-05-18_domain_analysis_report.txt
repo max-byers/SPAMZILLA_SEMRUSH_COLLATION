@@ -1,0 +1,122 @@
+Domain Analysis Report - 2025-05-18
+==================================================
+
+Total Domains Analyzed: 556
+Unsuitable Domains: 27
+Percentage Unsuitable: 4.86%
+
+Category Breakdown:
+Adult: 13 domains
+Gambling: 12 domains
+Pharmaceutical: 2 domains
+
+Detailed Results (Unsuitable Domains):
+--------------------------------------------------
+Domain: 138slotgacor.org
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: bostanciescort.biz
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: bostanciescortla.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: canadianpharmacytous.com
+  Matched Keywords: pharmacy
+  Matched Categories: Pharmaceutical
+
+Domain: cangkirslot.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: casinosuperlines.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: cinecapsule.com
+  Matched Keywords: capsule
+  Matched Categories: Pharmaceutical
+
+Domain: easyslot888.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: escortdat.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: escortsnoida.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: freeslotscleopatrax.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: kadikoyescortt.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: kartalescort.biz
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: kurtkoyescortelem.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: maltepeescortt.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: melstroycasino.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: naturallybettershop.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: pafibetun.org
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: pandora88slot.org
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: pendikescort.biz
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: pornhdvideo.org
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: resident-slot-play.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: sexlo.net
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: thailotteryresult.org
+  Matched Keywords: lottery
+  Matched Categories: Gambling
+
+Domain: umraniyeescortlar.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: w11poker.net
+  Matched Keywords: poker
+  Matched Categories: Gambling
+
+Domain: wkartalescort.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+

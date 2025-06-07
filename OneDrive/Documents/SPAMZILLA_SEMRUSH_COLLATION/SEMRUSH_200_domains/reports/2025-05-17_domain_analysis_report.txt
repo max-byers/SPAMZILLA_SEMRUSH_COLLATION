@@ -1,0 +1,174 @@
+Domain Analysis Report - 2025-05-17
+==================================================
+
+Total Domains Analyzed: 1190
+Unsuitable Domains: 40
+Percentage Unsuitable: 3.36%
+
+Category Breakdown:
+Adult: 13 domains
+Gambling: 22 domains
+Pharmaceutical: 5 domains
+
+Detailed Results (Unsuitable Domains):
+--------------------------------------------------
+Domain: abbettplacer.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: autopgslot.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: bethchattosymposium.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: pharmacyreth.com
+  Matched Keywords: pharmacy
+  Matched Categories: Pharmaceutical
+
+Domain: bethanyunited.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: betterseallc.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: onlinecasinoatt.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: betbybitcoin.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: canadianonlinepharmacystbm.com
+  Matched Keywords: pharmacy
+  Matched Categories: Pharmaceutical
+
+Domain: antibioticsoffthemenu.org
+  Matched Keywords: antibiotic
+  Matched Categories: Pharmaceutical
+
+Domain: pandora88slot.org
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: thailotteryresult.org
+  Matched Keywords: lottery
+  Matched Categories: Gambling
+
+Domain: resident-slot-play.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: pornhostarchive.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: midporntube.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: sexclipsgratis.com
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: pornhdvideo.org
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: totobeatbet.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: freebetsupermarket.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: rosemaryelizabethdesigns.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: slotgacordepo10k.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: iskenderunescort.biz
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: investigated-pills.com
+  Matched Keywords: pill
+  Matched Categories: Pharmaceutical
+
+Domain: escortsinbeirut.biz
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: truecialis.com
+  Matched Keywords: cialis
+  Matched Categories: Adult
+
+Domain: w88vnbet.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: japanxxxworld.com
+  Matched Keywords: xxx
+  Matched Categories: Adult
+
+Domain: xxx-teen-xxx.com
+  Matched Keywords: xxx
+  Matched Categories: Adult
+
+Domain: angrynakedpat.com
+  Matched Keywords: naked
+  Matched Categories: Adult
+
+Domain: escort-dk.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: indobet303.net
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: kanesex-gr.net
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: qqslot777xl.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: qqslot777aa.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: juliaescorts.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: stayonpoker.com
+  Matched Keywords: poker
+  Matched Categories: Gambling
+
+Domain: bethcarvalho.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: slot-pencetlah.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: qqslot777thai.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: dietsupplementreviews.org
+  Matched Keywords: supplement
+  Matched Categories: Pharmaceutical
+
