@@ -1,0 +1,179 @@
+import os
+import csv
+import time
+from urllib.parse import urlparse
+import requests
+from bs4 import BeautifulSoup
+
+# -----------------------------
+# CONFIG
+# -----------------------------
+INPUT_FILE = os.path.join("earthponds", "urls")
+
+# Extract domain name from INPUT_FILE path (the directory containing the urls file)
+DOMAIN_NAME = os.path.basename(os.path.dirname(INPUT_FILE))
+
+LOCAL_OUTPUT_DIR = os.path.join(DOMAIN_NAME, "scrapes")
+DOWNLOADS_OUTPUT_DIR = os.path.join(os.path.expanduser("~"), "Downloads", DOMAIN_NAME, "scrapes")
+
+LOCAL_CSV_NAME = f"{DOMAIN_NAME}_master.csv"
+SUCCESS_FILE_NAME = "successful_urls.txt"
+
+CONTENT_SELECTORS = [
+    "article",
+    "main",
+    "div.article-body",
+    "div.content",
+    "section.content",
+    "div#main",
+    "div.post-body",
+    "div.blog-post",
+]
+
+HEADERS = {"User-Agent": "Mozilla/5.0"}
+TIMEOUT_SECONDS = 20
+SLEEP_BETWEEN_REQUESTS = 0.5
+MAX_RETRIES = 3
+
+
+# -----------------------------
+# HELPERS
+# -----------------------------
+def ensure_dirs(*paths: str) -> None:
+    for p in paths:
+        os.makedirs(p, exist_ok=True)
+
+
+def safe_filename_from_url(url: str) -> str:
+    """
+    Makes a stable filename from the URL path:
+    - https://site.com/a/b/ -> a_b.txt (or index.txt)
+    - querystrings/fragments ignored
+    """
+    parsed = urlparse(url)
+    path = parsed.path.strip("/")
+    if not path:
+        return "index.txt"
+    # replace separators and hyphens
+    slug = path.replace("/", "_").replace("-", "_")
+    # keep it a reasonable length
+    slug = slug[:180]
+    return f"{slug}.txt"
+
+
+def read_urls(path: str) -> list[str]:
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"Input file not found: {path}")
+    with open(path, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip() and not line.strip().startswith("#")]
+
+
+def fetch_html(session: requests.Session, url: str) -> str:
+    last_err = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            r = session.get(url, headers=HEADERS, timeout=TIMEOUT_SECONDS)
+            r.raise_for_status()
+            return r.text
+        except Exception as e:
+            last_err = e
+            if attempt < MAX_RETRIES:
+                time.sleep(1.0 * attempt)  # simple backoff
+            else:
+                raise last_err
+
+
+def extract_title_and_content(html: str) -> tuple[str, str]:
+    soup = BeautifulSoup(html, "lxml")
+
+    title = soup.title.get_text(strip=True) if soup.title else "No Title"
+
+    # try selectors first
+    for selector in CONTENT_SELECTORS:
+        section = soup.select_one(selector)
+        if section:
+            text = section.get_text(separator="\n", strip=True)
+            if len(text) > 300:
+                return title, text
+
+    # fallback: paragraphs
+    paragraphs = soup.find_all("p")
+    content = "\n".join(
+        p.get_text(strip=True)
+        for p in paragraphs
+        if len(p.get_text(strip=True)) > 20
+    )
+
+    if not content.strip():
+        content = "No readable content found."
+
+    return title, content
+
+
+def write_text_to_both_dirs(filename: str, title: str, content: str, dir_a: str, dir_b: str) -> None:
+    for folder in (dir_a, dir_b):
+        out_path = os.path.join(folder, filename)
+        with open(out_path, "w", encoding="utf-8") as out_file:
+            out_file.write(f"{title}\n\n{content}")
+
+
+# -----------------------------
+# MAIN
+# -----------------------------
+def main() -> None:
+    # Ensure domain directories exist (for CSV files) and scrapes subdirectories
+    LOCAL_DOMAIN_DIR = DOMAIN_NAME
+    DOWNLOADS_DOMAIN_DIR = os.path.join(os.path.expanduser("~"), "Downloads", DOMAIN_NAME)
+    ensure_dirs(LOCAL_OUTPUT_DIR, DOWNLOADS_OUTPUT_DIR, LOCAL_DOMAIN_DIR, DOWNLOADS_DOMAIN_DIR)
+
+    urls = read_urls(INPUT_FILE)
+
+    # CSV files go in domain folder, not in scrapes subfolder
+    local_csv_path = os.path.join(LOCAL_DOMAIN_DIR, LOCAL_CSV_NAME)
+    downloads_csv_path = os.path.join(DOWNLOADS_DOMAIN_DIR, LOCAL_CSV_NAME)
+
+    successful_urls: list[str] = []
+
+    with requests.Session() as session, \
+        open(local_csv_path, "w", newline="", encoding="utf-8") as local_csvfile, \
+        open(downloads_csv_path, "w", newline="", encoding="utf-8") as downloads_csvfile:
+
+        local_writer = csv.writer(local_csvfile)
+        downloads_writer = csv.writer(downloads_csvfile)
+
+        headers_row = ["URL", "Title", "Content"]
+        local_writer.writerow(headers_row)
+        downloads_writer.writerow(headers_row)
+
+        for i, url in enumerate(urls, start=1):
+            try:
+                html = fetch_html(session, url)
+                title, content = extract_title_and_content(html)
+                filename = safe_filename_from_url(url)
+
+                write_text_to_both_dirs(filename, title, content, LOCAL_OUTPUT_DIR, DOWNLOADS_OUTPUT_DIR)
+
+                row = [url, title, content]
+                local_writer.writerow(row)
+                downloads_writer.writerow(row)
+
+                successful_urls.append(url)
+                print(f"✅ ({i}/{len(urls)}) Saved: {filename}")
+
+            except Exception as e:
+                print(f"❌ ({i}/{len(urls)}) Error scraping {url}: {e}")
+
+            time.sleep(SLEEP_BETWEEN_REQUESTS)
+
+    # save successful URLs
+    for folder in (LOCAL_OUTPUT_DIR, DOWNLOADS_OUTPUT_DIR):
+        with open(os.path.join(folder, SUCCESS_FILE_NAME), "w", encoding="utf-8") as f:
+            f.write("\n".join(successful_urls))
+
+    print("\n📄 Scraped files saved to BOTH:")
+    print(f"- {LOCAL_OUTPUT_DIR}")
+    print(f"- {DOWNLOADS_OUTPUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()

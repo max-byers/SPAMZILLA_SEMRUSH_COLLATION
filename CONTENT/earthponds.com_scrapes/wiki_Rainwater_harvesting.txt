@@ -1,0 +1,1736 @@
+Rainwater harvesting - Wikipedia
+
+Toggle the table of contents
+Rainwater harvesting
+23 languages
+العربية
+বাংলা
+Català
+Čeština
+Deutsch
+Español
+فارسی
+Français
+Frysk
+한국어
+Hausa
+हिन्दी
+ಕನ್ನಡ
+മലയാളം
+मराठी
+Bahasa Melayu
+Nederlands
+Oʻzbekcha / ўзбекча
+Slovenščina
+Svenska
+தமிழ்
+Türkçe
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiversity
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Accumulation of rainwater for reuse
+Configuration of domestic rainwater harvesting system in Uganda. Rain that falls on the roof of the building is transferred through the guttering to the storage tank.
+[
+1
+]
+Rainwater harvesting
+(
+RWH
+) is the collection and
+storage
+of
+rain
+water
+, rather than allowing it to
+run off
+. Rainwater is collected from a roof-like surface and redirected to a
+tank
+,
+cistern
+, deep pit (
+well
+, shaft, or
+borehole
+),
+aquifer
+, or a
+reservoir
+with
+percolation
+, so that it seeps down and restores the ground water. Rainwater harvesting differs from
+stormwater harvesting
+as the runoff is typically collected from roofs and other area surfaces for storage and subsequent reuse.
+[
+2
+]
+: 10
+Its uses include watering gardens,
+livestock
+,
+[
+3
+]
+irrigation
+,
+domestic use
+with proper treatment, and domestic heating. The harvested water can also be used for long-term storage or
+groundwater recharge
+.
+[
+4
+]
+Rainwater harvesting is one of the simplest and oldest methods of
+self-supply of water
+for households, having been used in South Asia and other countries for many thousands of years.
+[
+5
+]
+Civilizations such as the Romans developed extensive water collection systems, including
+aqueducts
+and rooftop channels, which laid the groundwork for many of the modern gutter-based systems still in use today.
+[
+6
+]
+Installations can be designed for different scales, including households, neighborhoods, and communities, and can also serve institutions such as schools, hospitals, and other public facilities.
+[
+7
+]
+Uses
+[
+edit
+]
+Rainwater capture and storage system, Mexico City campus,
+Monterrey Institute of Technology and Higher Education
+Cistern
+,
+Mission District, San Francisco
+, California
+Rainwater capture,
+Gibraltar
+East Side, 1992
+Home, with rain collection jars on roof,
+Panarea
+,
+Aeolian Islands
+, north of
+Sicily
+,
+Italy
+[
+8
+]
+Rainwater harvesting and hand washing system for a toilet in
+Kenya
+.
+Rainwater harvesting in
+Burkina Faso
+Plastic Pond for Rainwater Harvesting,
+Nepal
+, 2013
+[
+9
+]
+Rainwater harvesting system,
+Kiribati
+Domestic use
+[
+edit
+]
+Rooftop rainwater harvesting is used to provide drinking water, domestic water, water for livestock, water for small irrigation, and a way to replenish groundwater levels.
+[
+10
+]
+[
+11
+]
+Kenya has already been successfully harvesting rainwater for toilets, laundry, and irrigation. Since the establishment of the 2016 Water Act, Kenya has prioritized regulating its agriculture industry.
+[
+12
+]
+Additionally, areas in Australia use harvested rainwater for cooking and drinking.
+[
+13
+]
+Studies by Stout et al. on the feasibility of RWH in India found it most beneficial for small-scale irrigation, which provides income from produce sales, and for groundwater recharge.
+[
+13
+]
+Agriculture
+[
+edit
+]
+In regards to urban agriculture, rainwater harvesting in urban areas reduces the impact of runoff and flooding. The combination of urban 'green' rooftops with rainwater catchments have been found to reduce building temperatures by more than 1.3 degrees Celsius. Rainwater harvesting in conjunction with urban agriculture would be a viable way to help meet the United Nations
+Sustainable Development Goals
+for cleaner and sustainable cities, health and wellbeing, and food and
+water security
+(
+Sustainable Development Goal 6
+). The technology is available, however, it needs to be remodeled in order to use water more efficiently, especially in an urban setting.
+Missions to five Caribbean countries have shown that the capture and storage of rainwater runoff for later use is able to significantly reduce the risk of losing some or all of the year's harvest because of soil or
+water scarcity
+. In addition, the risks associated with flooding and soil erosion during high rainfall seasons would decrease. Small farmers, especially those farming on hillsides, could benefit the most from rainwater harvesting because they are able to capture runoff and decrease the effects of soil erosion.
+[
+14
+]
+Many countries, especially those with arid environments, use rainwater harvesting as a cheap and reliable source of clean water.
+[
+15
+]
+To enhance
+irrigation
+in arid environments, ridges of soil are constructed to trap and prevent rainwater from running down hills and slopes. Even in periods of low
+rainfall
+, enough water is collected for crops to grow.
+[
+16
+]
+Water can be collected from roofs, dams and ponds can be constructed to hold large quantities of rainwater so that even on days when little to no rainfall occurs, enough is available to irrigate crops.
+Industry
+[
+edit
+]
+Frankfurt Airport
+has the largest rainwater harvesting system in Germany, saving approximately 1 million cubic meters of water per year. The cost of the system was 1.5 million dm (US$63,000) in 1993. This system collects water from the roofs of the new terminal which has an area of 26,800 square meters. The water is collected in the basement of the airport in six tanks with a storage capacity of 100 cubic meters. The water is mainly used for toilet flushing, watering plants and cleaning the air conditioning system.
+[
+17
+]
+Rainwater harvesting was adopted at The Velodrome – The
+London Olympic Park
+– in order to increase the sustainability of the facility. A 73% decrease in potable water demand by the park was estimated. Despite this, it was deemed that rainwater harvesting was a less efficient use of financial resources to increase sustainability than the park's
+blackwater
+recycling program.
+[
+18
+]
+Technologies
+[
+edit
+]
+Traditionally, stormwater management using
+detention basins
+served a single purpose. However,
+optimized real-time control
+lets this infrastructure double as a source of rainwater harvesting without compromising the existing detention capacity.
+[
+19
+]
+This has been used in the
+EPA
+headquarters to evacuate stored water prior to storm events, thus reducing wet weather flow while ensuring water availability for later reuse. This has the benefit of increasing water quality released and decreasing the volume of water released during
+combined sewer overflow
+events.
+[
+20
+]
+[
+21
+]
+Generally,
+check dams
+are constructed across the streams to enhance the percolation of surface water into the
+subsoil
+strata. The water percolation in the water-impounded area of the check dams can be enhanced artificially manyfold by loosening the subsoil strata by using
+ANFO
+explosives as used in
+open cast mining
+. Thus, local
+aquifers
+can be recharged quickly using the available surface water fully for use in the dry season.
+System setup
+[
+edit
+]
+Rainwater harvesting systems can range in complexity, from systems that can be installed with minimal skills, to automated systems that require advanced setup and installation. The basic rainwater harvesting system is more of a plumbing job than a technical job, as all the outlets from the building's terrace are connected through a pipe to an underground tank that stores water. There are common components that are installed in such systems, such as pre-filters (see e.g.
+vortex filter
+), drains/gutters, storage containers, and depending on whether the system is pressurized, also pumps, and treatment devices such as UV lights, chlorination devices and post-filtration equipment.
+Systems are ideally sized to meet the water demand throughout the dry season since it must be big enough to support daily water consumption. Specifically, the rainfall capturing area such as a building roof must be large enough to maintain an adequate flow of water. The water storage tank size should be large enough to contain the captured water. 
+For low-tech systems, many low-tech methods are used to capture rainwater: rooftop systems, surface water capture, and pumping the rainwater that has already soaked into the ground or captured in reservoirs and storing it in tanks (cisterns).
+Rainwater harvesting by solar power panels
+[
+edit
+]
+Good quality water resources near populated areas are becoming scarce and costly for consumers. In addition to solar and wind energy, rainwater is a major
+renewable resource
+for any land. Vast areas are being covered by
+solar PV panels
+every year in all parts of the world. Solar panels can also be used for harvesting most of the rainwater falling on them and drinking quality water, free from bacteria and suspended matter, can be generated by simple
+filtration and disinfection
+processes as rainwater is very low in
+salinity
+.
+[
+22
+]
+[
+23
+]
+[
+24
+]
+Exploiting rainwater for value-added products like bottled drinking water makes solar PV power plants profitable even in high rainfall or cloudy areas by generating additional income. Recently, cost-effective rainwater collection in existing wells has been found highly effective in raising groundwater levels in India.
+Other innovations
+[
+edit
+]
+The
+Groasis Waterboxx
+is an example of low scale technology, in this case to assist planting of trees in arid area. It harvests rainwater and dew.
+Global Rainwater Management Program (GRMP)
+suggested by UNCCD and Global Water Partnership
+Global Rainwater Management Program (GRMP)
+Advantages
+[
+edit
+]
+Rainwater harvesting provides an independent water supply during regional water restrictions, and in developed countries, it is often used to supplement the main supply. It provides water when a drought occurs, can help mitigate flooding of low-lying areas, and reduces demand on wells which may enable groundwater levels to be sustained. Rainwater harvesting increases the availability of water during dry seasons by increasing the levels of dried borewells and wells. Surface water supply is readily available for various purposes thus reducing dependence on underground water. It improves the quality of ground by diluting salinity. It does not cause pollution and is environmentally friendly. It is cost-effective and easily affordable. It also helps in the availability of potable water, as rainwater is substantially free of salinity and other salts. Applications of rainwater harvesting in
+urban water system
+provides a substantial benefit for both
+water supply
+and
+wastewater
+subsystems by reducing the need for
+clean water
+in water distribution systems, less generated
+stormwater
+in
+sewer systems
+,
+[
+25
+]
+and a reduction in stormwater runoff polluting freshwater bodies.
+A large body of work has focused on the development of life cycle assessment and its costing methodologies to assess the level of environmental impacts and money that can be saved by implementing rainwater harvesting systems.
+[
+24
+]
+Independent water supply
+[
+edit
+]
+Rainwater harvesting provides an independent water supply during water restrictions. In areas where clean water is costly, or difficult to come by, rainwater harvesting is a critical source of clean water. In developed countries, rainwater is often harvested to be used as a supplemental source of water rather than the main source, but the harvesting of rainwater can also decrease a household's water costs or overall usage levels. Rainwater is safe to drink if the consumers do additional treatments before drinking. Boiling water helps to kill germs. Adding another supplement to the system such as a
+first flush
+diverter is also a common procedure to avoid contaminants of the water.
+[
+26
+]
+Supplemental in drought
+[
+edit
+]
+When drought occurs, rainwater harvested in past months can be used. If rain is scarce but also unpredictable, the use of a rainwater harvesting system can be critical to capturing the rain when it does fall. Many countries with arid environments, use rainwater harvesting as a cheap and reliable source of clean water. To enhance irrigation in arid environments, ridges of soil are constructed to trap and prevent rainwater from running downhills. Even in periods of low
+rainfall
+, enough water is collected for crops to grow. Water can be collected from roofs and tanks can be constructed to hold large quantities of rainwater.
+In addition, rainwater harvesting decreases the demand for water from wells, enabling groundwater levels to be further sustained rather than depleted.
+Life-cycle assessment
+[
+edit
+]
+Life-cycle assessment
+is a methodology used to evaluate the environmental impacts of a system from cradle-to-grave of its lifetime. Devkota et al,
+[
+27
+]
+[
+28
+]
+developed such a methodology for rainwater harvesting, and found that the building design (e.g., dimensions) and function (e.g., educational, residential, etc.) play critical roles in the environmental performance of the system.
+To address the functional parameters of rainwater harvesting systems, a new metric was developed – the demand to supply ratio (D/S) – identifying the ideal building design (supply) and function (demand) in regard to the environmental performance of rainwater harvesting for toilet flushing. With the idea that supply of rainwater not only saves the potable water but also saves the stormwater entering the combined sewer network (thereby requiring treatment), the savings in environmental emissions were higher if the buildings are connected to a combined sewer network compared to separate one.
+[
+28
+]
+Cost-effectiveness
+[
+edit
+]
+Although standard RWH systems can provide a water source to developing regions facing poverty, the average cost for an RWH setup can be costly depending on the type of technology used. Governmental aid and NGOs can assist communities facing poverty by providing the materials and education necessary to develop and maintain RWH setups.
+[
+29
+]
+Some studies show that rainwater harvesting is a widely applicable solution for water scarcity and other multiple usages, owing to its cost-effectiveness and eco-friendliness.
+[
+29
+]
+[
+30
+]
+Constructing new substantial, centralized water supply systems, such as dams, is prone to damage local ecosystems, generates external social costs, and has limited usages, especially in developing countries or impoverished communities. On the other hand, installing rainwater harvesting systems is verified by a number of studies to provide local communities a sustainable water source, accompanied by other various benefits, including protection from flood and control of water runoff, even in poor regions.
+[
+29
+]
+[
+31
+]
+Rainwater harvesting systems that do not require major construction or periodic maintenance by a professional from outside the community are more friendly to the environment and more likely to benefit the local people for a longer period of time.
+[
+29
+]
+Thus, rainwater harvesting systems that could be installed and maintained by local people have bigger chances to be accepted and used by more people.
+The usage of
+in-situ
+technologies can reduce investment costs in rainwater harvesting. In-situ technologies for rainwater harvesting could be a feasible option for
+rural areas
+since less material is required to construct them. They can provide a reliable water source that can be utilized to expand agricultural outputs. Above-ground tanks can collect water for
+domestic use
+; however, such units can be unaffordable to people in poverty.
+[
+32
+]
+Limitations
+[
+edit
+]
+Rainwater harvesting is a widely used method of storing rainwater in countries presenting with drought characteristics. Several pieces of research have derived and developed different criteria and techniques to select suitable sites for harvesting rainwater. Some research was identified and selected suitable sites for the potential erection of dams, as well as derived a model builder in ArcMap 10.4.1. The model combined several parameters, such as slope, runoff potential, land cover/use, stream order,
+soil quality
+, and hydrology to determine the suitability of the site for harvesting rainwater.
+[
+33
+]
+Harvested water from RWH systems can be minimal during below-average precipitation in
+arid
+urban regions such as the
+Middle East
+. RWH is useful for developing areas as it collects water for
+irrigation
+and domestic purposes. However, the gathered water should be adequately
+filtered
+to ensure safe drinking.
+[
+34
+]
+Quality of water
+[
+edit
+]
+Rainwater may need to be analyzed properly, and used in a way appropriate to its safety. In the
+Gansu
+province, for example,
+solar water disinfection
+is used by boiling harvested rainwater in parabolic solar cookers before being used for drinking.
+[
+35
+]
+These so-called "
+appropriate technology
+" methods provide low-cost disinfection options for treatment of stored rainwater for drinking.
+While rainwater itself is a clean source of water, often better than groundwater or water from rivers or lakes,
+[
+36
+]
+the process of collection and storage often leaves the water polluted and non-potable. Rainwater harvested from roofs can contain human, animal and bird
+feces
+,
+mosses
+and
+lichens
+, windblown dust, particulates from urban pollution, pesticides, and inorganic
+ions
+from the sea (
+Ca
+,
+Mg
+,
+Na
+,
+K
+,
+Cl
+,
+SO4
+), and dissolved gases (
+CO
+2
+,
+NO
+x
+,
+SO
+x
+). High levels of pesticide have been found in rainwater in Europe with the highest concentrations occurring in the first rain immediately after a dry spell;
+[
+37
+]
+the concentration of these and other contaminants are reduced significantly by diverting the
+initial flow
+of run-off water to waste. Improved water quality can also be obtained by using a floating draw-off mechanism (rather than from the base of the tank) and by using a series of tanks, withdraw from the last in series. Prefiltration is a common practice used in the industry to keep the system healthy and ensure that the water entering the tank is free of large sediments.
+A concept of rainwater harvesting and cleaning it with solar energy for rural household drinking purposes has been developed by
+Nimbkar Agricultural Research Institute
+.
+[
+38
+]
+Conceptually, a water supply system should match the quality of water with the end-user. However, in most of the developed world, high-quality potable water is used for all end uses. This approach wastes money and energy and imposes unnecessary impacts on the environment. Supplying rainwater that has gone through preliminary filtration measures for non-potable water uses, such as toilet flushing, irrigation, and laundry, may be a significant part of a sustainable water management strategy.
+Rainwater cisterns can also act as habitat for pathogen-bearing mosquitoes. As a result, care must be taken to ensure that female mosquitoes can not access the cistern to lay eggs. Larvae eating fish can also be added to the cistern, or it can be chemically treated.
+Country examples
+[
+edit
+]
+Canada
+[
+edit
+]
+This section is an excerpt from
+Rainwater harvesting in Canada
+.
+[
+edit
+]
+A small rainwater harvesting tank in Quebec.
+Rainwater harvesting is becoming a procedure that many Canadians are incorporating into their daily lives, although data does not give exact figures for implementation.
+[
+39
+]
+Rainwater
+can be used for a number of purposes including
+stormwater
+reduction,
+irrigation
+, laundry and portable toilets.
+[
+40
+]
+In addition to low costs, rainwater harvesting is useful for landscape
+irrigation
+. Many Canadians have started implementing rainwater harvesting systems for use in stormwater reduction, irrigation, laundry, and lavatory plumbing. Provincial and municipal legislation is in place for regulating the rights and uses for captured rainwater. Substantial reform to Canadian law since the mid-2000s has increased the use of this technology in agricultural, industrial, and residential use, but ambiguity remains amongst legislation in many provinces. Bylaws and local municipal codes often regulate rainwater harvesting.
+Multiple organizations and companies have developed in Canada to provide education, technology, and installation for rainwater harvesting. These include the Canadian Association for Rainwater Management (CANARM),
+[
+41
+]
+Canadian Mortgage and Housing Corporation
+(CMHC), and CleanFlo Water Technologies.
+[
+42
+]
+CANARM is an association that prioritizes education, training and spreading awareness for those entering the rainwater harvesting industry.
+[
+41
+]
+India
+[
+edit
+]
+This section is an excerpt from
+Water supply and sanitation in India § Rainwater harvesting
+.
+[
+edit
+]
+In the early 21st century, India began heavily investing in
+rainwater harvesting
+infrastructure and policy as an urgent response to water scarcity.
+[
+43
+]
+In 2001, Tamil Nadu became the first Indian state to make rainwater harvesting compulsory in every building to avoid groundwater depletion. In Rajasthan, rainwater harvesting has traditionally been practised by the people of the Thar Desert.  Increase in rainwater harvesting efforts across the nation have revived ancient water harvesting systems in Rajasthan, such as the chauka system from the Jaipur district. Other large cities like Pune, Mumbai and Bangalore all have varying rules for mandatory rainwater harvesting, especially in new buildings. In 2002, the Municipal Corporation of Greater Mumbai required all new buildings over 1,000 square metres (11,000 sq ft) to have rainwater harvesting infrastructure.
+[
+44
+]
+The law was expanded in 2007 to 300 square metres (3,200 sq ft). The goal was to ensure buildings had enough water to last them through non-monsoon seasons. The process included a catchment system, an initial flush, and extensive filtering.  As of 2021, the
+Brihanmumbai Municipal Corporation
+(BMC) reported 3000 newly constructed or redeveloped buildings with rainwater harvesting infrastructure.
+[
+45
+]
+However, many residents have complained that the stored water is contaminated, turning saline and brackish. Experts and residents argue that BMC authorities have done little to take implementation seriously, and the actual effectiveness of the rainwater harvesting mandate is unknown.
+[
+46
+]
+While rainwater harvesting in an urban context has gained traction in recent years, evidence points toward
+rainwater harvesting in rural India
+since ancient times.
+United Kingdom
+[
+edit
+]
+This section is an excerpt from
+Rainwater harvesting in the United Kingdom
+.
+[
+edit
+]
+Rainwater harvesting in the United Kingdom
+is a practice of growing importance. Rainwater harvesting in the
+UK
+is both a traditional and a reviving technique for collecting water for domestic uses. The water is generally used for non-hygienic purposes like watering gardens, flushing toilets, and washing clothes.
+[
+47
+]
+In commercial premises like supermarkets it is used for things like toilet flushing where larger tank systems can be used collecting between 1000 and 7500 litres of water. It is claimed that in the South East of England there is less water available per person than in many
+Mediterranean
+countries.
+[
+citation needed
+]
+Rainwater is almost always collected strictly from the roof, then heavily filtered using either a filter attached to the down pipe, a fine basket filter or for more expensive systems like self-cleaning filters placed in an underground tank.
+[
+48
+]
+UK homes using some form of rainwater harvesting system can reduce their mains water usage by 50% or more, although a 20%–30% saving is more common.
+[
+49
+]
+At present (depending on the area in the UK) mains water delivery and equivalent waste water and sewerage processing costs about £2 per cubic metre. Reducing mains-water metered volumes also reduces the sewerage and sewage disposal costs in the same proportion, because
+water company
+billing assumes that all water taken into the house is discharged into the sewers.
+United States
+[
+edit
+]
+This section is an excerpt from
+Water supply and sanitation in the United States § Rainwater harvesting
+.
+[
+edit
+]
+In the United States, until 2009 in
+Colorado
+, water rights laws almost completely restricted rainwater harvesting; a property owner who captured rainwater was deemed to be stealing it from those who have the
+rights to take water
+from the watershed. Now, residential good owners who meet certain criteria may obtain a permit to install a rooftop precipitation collection system (SB 09-080).
+[
+50
+]
+Up to 10 large scale pilot studies may also be permitted (HB 09–1129).
+[
+51
+]
+The main factor in persuading the
+Colorado Legislature
+to change the law was a 2007 study that found that in an average year, 97% of the precipitation that fell in
+Douglas County
+, in the southern suburbs of
+Denver
+, never reached a stream—it was used by plants or evaporated on the ground. Rainwater catchment is mandatory for new dwellings in
+Santa Fe, New Mexico
+.
+[
+52
+]
+Texas offers a sales tax exemption on the purchase of rainwater harvesting equipment. Both Texas
+[
+53
+]
+and Ohio allow the practice even for potable purposes. Oklahoma passed the Water for 2060 Act in 2012, to promote pilot projects for rainwater and
+graywater
+use among other water-saving techniques.
+[
+54
+]
+Other countries
+[
+edit
+]
+Rainwater harvesting tank in
+Rwanda
+.
+Uganda
+: Rainwater harvesting has been used in Uganda to promote household and community scale water security for many years. Regular maintenance is an ongoing challenge with existing installation and there are many examples of installations that have failed due to poor maintenance. Research has also shown that awareness of RWH and how to access necessary resources to implement RWH is variable across Ugandan society.
+[
+1
+]
+Thailand
+has the largest fraction of the population in the rural area relying on rainwater harvesting (currently around 40%).
+[
+55
+]
+Rainwater harvesting was promoted heavily by the government in the 1980s. In the 1990s, after government funding for the collection tanks ran out, the private sector stepped in and provided several million tanks to private households, many of which continue to be used.
+[
+56
+]
+This is one of the largest examples of
+self-supply of water
+worldwide.
+In
+Bermuda
+, the law requires all new construction to include rainwater harvesting adequate for the residents.
+[
+57
+]
+New Zealand
+has plentiful rainfall in the West and South, and rainwater harvesting is the normal practice in many rural areas, using roof water directed by
+spouting
+into covered, 1000 litre storage tanks, with the encouragement of most local councils.
+[
+58
+]
+In
+Sri Lanka
+, rainwater harvesting has been a popular method of obtaining water for agriculture and for drinking purposes in rural homes. The legislation to promote rainwater harvesting was enacted through the Urban Development Authority (Amendment) Act, No. 36 of 2007.
+[
+59
+]
+The Lanka Rainwater Harvesting Forum is leading Sri Lanka's initiative.
+[
+60
+]
+The
+tank cascade system
+is an ancient irrigation system spanning the island of Sri Lanka.
+In
+Bolivia
+, rainwater harvesting projects have been introduced in rural and suburban schools to help address water scarcity and support school-based agriculture. In Cochabamba, initiatives led by local NGOs and community members have used rooftop collection systems to supply gardens that provide meals for students.
+[
+61
+]
+History
+[
+edit
+]
+See also:
+History of water supply and sanitation
+The construction and use of
+cisterns
+to store rainwater can be traced back to the
+Neolithic Age
+, when waterproof lime plaster cisterns were built in the floors of houses in village locations of the
+Levant
+, a large area in Southwest Asia, south of the
+Taurus Mountains
+, bounded by the
+Mediterranean Sea
+in the west, the
+Arabian Desert
+in the south, and
+Mesopotamia
+in the east. By the late 4000 BC
+[
+clarification needed
+]
+, cisterns were essential elements of emerging water management techniques used in
+dry-land farming
+.
+[
+62
+]
+Many ancient cisterns have been discovered in some parts of
+Jerusalem
+and throughout what is today Israel/Palestine. At the site believed by some to be that of the biblical city of Ai (Khirbet et-Tell), a large cistern dating back to around 2500 BC was discovered that had a capacity of nearly 1,700 m
+3
+(60,000 cu ft). It was carved out of a solid rock, lined with large stones, and sealed with clay to keep it from leaking.
+[
+62
+]
+The Greek island of
+Crete
+is also known for its use of large cisterns for rainwater collection and storage during the
+Minoan
+period from 2,600 BC–1,100 BC. Four large cisterns have been discovered at
+Myrtos-Pyrgos
+,
+Archanes
+, and Zakroeach. The cistern found at Myrtos-Pyrgos was found to have a capacity of more than 80 m
+3
+(2,800 cu ft) and to date back to 1700 BC.
+[
+62
+]
+Around 300 BC, farming communities in
+Balochistan
+(now located in Pakistan, Afghanistan, and Iran), and
+Kutch
+, India, used rainwater harvesting for agriculture and many other uses.
+[
+63
+]
+Rainwater harvesting was done by
+Chola kings
+as well.
+[
+64
+]
+Rainwater from the
+Brihadeeswarar temple
+(located in Balaganapathy Nagar,
+Thanjavur
+, India) was collected in Shivaganga tank.
+[
+65
+]
+During the later Chola period, the Vīrānam tank was built (1011 to 1037 AD) in the Cuddalore district of
+Tamil Nadu
+to store water for drinking and irrigation purposes. Vīrānam is a 16-km-long tank with a storage capacity of 1,465,000,000 cu ft (41,500,000 m
+3
+).
+Rainwater harvesting was also common in the
+Roman Empire
+.
+[
+66
+]
+While
+Roman aqueducts
+are well-known,
+Roman cisterns
+were also commonly used and their construction expanded with the Empire.
+[
+62
+]
+For example, in
+Pompeii
+, rooftop water storage was common before the construction of
+the aqueduct
+in the 1st century BC.
+[
+67
+]
+This history continued with the Byzantine Empire; for example, the
+Basilica Cistern
+in Istanbul.
+Though little known, the town of
+Venice
+for centuries depended on rainwater harvesting. The lagoon surrounding Venice is brackish water, which is unsuitable for drinking. Venice's ancient inhabitants established a rainwater collection system based on man-made insulated collection wells.
+[
+68
+]
+Water percolated down the specially designed stone flooring, and was filtered by a layer of sand, then collected at the bottom of the well. Later, as Venice acquired territories on the mainland, it started to import water by boat from local rivers. Still, the wells remained in use and were especially important in times of war when an enemy could block access to the mainland water.
+Urban implementation
+[
+edit
+]
+In urban areas, rainwater harvesting systems are integrated into building designs to reduce runoff and supplement water supply. Cities like Melbourne and Singapore have adopted policies encouraging rainwater collection in residential and commercial buildings.
+[
+69
+]
+[
+70
+]
+Market outlook
+[
+edit
+]
+Rainwater harvesting systems are increasingly used across residential, commercial, and agricultural applications as concerns about water scarcity and sustainable resource management grow. Industry analyses note rising investment in collection, storage, and filtration technologies that support decentralized water systems. Research by Consegic Business Intelligence similarly reports an expanding market for rainwater harvesting solutions driven by environmental and regulatory factors.
+[
+71
+]
+See also
+[
+edit
+]
+Ecology portal
+Air well (condenser)
+– Building or device that collects water by condensing vapor
+Atmospheric water generator
+– Device that extracts drinkable water from humid air
+Blue roof
+– Roof of a building that is designed to provide temporary water storage
+Catchwater
+– Runoff catching or channeling device
+Desalination
+– Removal of salts from water
+Detention basin
+– Flood control measure
+Dew pond
+– Artificial pond for watering livestock
+Hydropower
+– Power generation via movement of water
+Peak water
+– Concept on the quality and availability of freshwater resources
+Rain power
+– Power generation via movement of water
+Pages displaying short descriptions of redirect targets
+Rainwater harvesting in the Sahel
+– Sub-Saharan agricultural water management
+Retention basin
+– Artificial pond for stormwater runoff
+Sponge city
+– Urban flood management concept
+Tank cascade system
+– Ancient irrigation system in Sri Lanka
+Water conservation
+– Policies for sustainable development of water use
+References
+[
+edit
+]
+^
+a
+b
+Staddon, Chad; Rogers, Josh; Warriner, Calum; Ward, Sarah; Powell, Wayne (17 November 2018).
+"Why doesn't every family practice rainwater harvesting? Factors that affect the decision to adopt rainwater harvesting as a household water security strategy in central Uganda"
+.
+Water International
+.
+43
+(8):
+1114–
+1135.
+Bibcode
+:
+2018WatIn..43.1114S
+.
+doi
+:
+10.1080/02508060.2018.1535417
+.
+ISSN
+0250-8060
+.
+S2CID
+158857347
+.
+^
+Managing Urban Stormwater: Harvesting and reuse
+(PDF)
+(Report). Sydney, Australia:
+New South Wales Department of Environment and Conservation
+. 1 April 2006.
+ISBN
+1-74137-875-3
+. Archived from
+the original
+(PDF)
+on 16 July 2020.
+^
+"Rainwater Harvesting for Livestock"
+.
+ntotank.com
+.
+Archived
+from the original on 21 November 2018
+. Retrieved
+21 November
+2018
+.
+^
+Kinkade-Levario, Heather (2007).
+Design for Water: Rainwater Harvesting, Stormwater Catchment, and Alternate Water Reuse
+.
+Gabriola Island
+, BC:
+New Society Publishers
+. p. 27.
+ISBN
+978-0-86571-580-6
+.
+^
+Bagel, Ravi; Stepan, Lea; Hill, Joseph K. W. (2017).
+Water, knowledge and the environment in Asia: epistemologies, practices and locales
+. London.
+ISBN
+978-1-315-54316-1
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+^
+"The History of Rainwater Harvesting: From Roman Aqueducts to Modern Gutters"
+. 9 May 2025
+. Retrieved
+9 May
+2025
+.
+^
+Rural Water Supply Network.
+"Rural Water Supply Network Self-supply site"
+.
+rural-water-supply.net
+.
+Archived
+from the original on 14 January 2019
+. Retrieved
+19 March
+2017
+.
+^
+it:Architettura eoliana
+^
+commons:Category:Rainwater harvesting in Nepal
+^
+"Rain Water Harvesting in Flats"
+.
+Uttarayangroup
+.
+^
+Morales Rojas, Eli; Díaz Ortiz, Edwin Adolfo; Medina Tafur, Cesar Augusto; García, Ligia; Oliva, Manuel; Rojas Briceño, Nilton B. (2021).
+"A Rainwater Harvesting and Treatment System for Domestic Use and Human Consumption in Native Communities in Amazonas (NW Peru): Technical and Economic Validation"
+.
+Scientifica
+.
+2021
+(1) 4136379.
+doi
+:
+10.1155/2021/4136379
+.
+ISSN
+2090-908X
+.
+PMC
+8548140
+.
+PMID
+34712503
+.
+^
+"Understanding the Kenya 2016 Water Act"
+(PDF)
+.
+2030wrg
+.
+Archived
+(PDF)
+from the original on 26 July 2021
+. Retrieved
+26 July
+2021
+.
+^
+a
+b
+Amos, Caleb Christian; Rahman, Ataur; Karim, Fazlul; Gathenya, John Mwangi (November 2018). "A scoping review of roof harvested rainwater usage in urban agriculture: Australia and Kenya in focus".
+Journal of Cleaner Production
+.
+202
+:
+174–
+190.
+Bibcode
+:
+2018JCPro.202..174A
+.
+doi
+:
+10.1016/j.jclepro.2018.08.108
+.
+ISSN
+0959-6526
+.
+S2CID
+158718294
+.
+^
+Fletcher-Paul, Dr. Lystra.
+"Feasibility Study of Rainwater Harvesting for Agriculture in the Caribbean Subregion"
+(PDF)
+.
+FAO
+.
+Archived
+(PDF)
+from the original on 25 April 2018
+. Retrieved
+25 April
+2018
+.
+^
+Zhu, Qiang; et al. (2015).
+Rainwater Harvesting for Agriculture and Water Supply
+. Beijing: Springer. p. 20.
+ISBN
+978-981-287-964-6
+.
+^
+"Rainwater harvesting"
+. Archived from
+the original
+on 8 May 2019
+. Retrieved
+3 March
+2016
+.
+^
+"Rainwater harvesting in Germany"
+.
+www.rainwaterharvesting.org
+.
+Archived
+from the original on 19 February 2019
+. Retrieved
+24 April
+2018
+.
+^
+"Learning legacy: Lessons learned from the London 2012 Games construction project"
+(PDF)
+.
+Olympic Delivery Authority
+. 2011.
+Archived
+(PDF)
+from the original on 8 December 2015
+. Retrieved
+24 April
+2018
+.
+^
+"Rainwater Harvesting - Controls in the Cloud"
+.
+M. C
+. 3 October 2013.
+Archived
+from the original on 5 August 2019
+. Retrieved
+11 January
+2015
+.
+^
+O'Brien, Sara Ashley (11 November 2014).
+"The Tech Behind Smart Cities - Eliminating Water Pollution"
+.
+CNN Money
+.
+Archived
+from the original on 14 November 2014
+. Retrieved
+13 November
+2014
+.
+^
+Braga, Andrea.
+"Making Green Work, and Work Harder"
+(PDF)
+. Geosyntec. p. 5. Archived from
+the original
+(PDF)
+on 4 March 2016
+. Retrieved
+30 November
+2014
+.
+^
+"Rain fed solar-powered water purification systems"
+.
+Archived
+from the original on 21 October 2017
+. Retrieved
+21 October
+2017
+.
+^
+"Inverted Umbrella Brings Clean Water & Clean Power To India"
+. 4 December 2017.
+Archived
+from the original on 9 July 2018
+. Retrieved
+5 December
+2017
+.
+^
+a
+b
+"New rooftop solar hydro panels harvest drinking water and energy at the same time"
+. 29 November 2017.
+Archived
+from the original on 10 August 2019
+. Retrieved
+30 November
+2017
+.
+^
+Behzadian, k; Kapelan, Z (2015).
+"Advantages of integrated and sustainability based assessment for metabolism-based strategic planning of urban water systems"
+(PDF)
+.
+Science of the Total Environment
+.
+527–
+528:
+220–
+231.
+Bibcode
+:
+2015ScTEn.527..220B
+.
+doi
+:
+10.1016/j.scitotenv.2015.04.097
+.
+hdl
+:
+10871/17351
+.
+PMID
+25965035
+.
+^
+"Rainwater Collection"
+.
+Centers of Disease Control and Prevention (CDC)
+. Archived from
+the original
+on 6 April 2020.
+^
+Devkota, J.; Schlachter, H.; Anand, C.; Phillips, R.; Apul, Defne (November 2013). "Development and application of EEAST: A lifecycle-based model for use of harvested rainwater and composting toilets in buildings".
+Journal of Environmental Management
+.
+130
+:
+397–
+404.
+Bibcode
+:
+2013JEnvM.130..397D
+.
+doi
+:
+10.1016/j.jenvman.2013.09.015
+.
+PMID
+24141064
+.
+^
+a
+b
+Devkota, Jay; Schlachter, Hannah; Apul, Defne (May 2015). "Life cycle based evaluation of harvested rainwater use in toilets and for irrigation".
+Journal of Cleaner Production
+.
+95
+:
+311–
+321.
+Bibcode
+:
+2015JCPro..95..311D
+.
+doi
+:
+10.1016/j.jclepro.2015.02.021
+.
+^
+a
+b
+c
+d
+Cain, Nicholas L. (2014). "A Different Path: The Global Water Crisis and Rainwater Harvesting".
+Consilience
+(12):
+147–
+157.
+ISSN
+1948-3074
+.
+JSTOR
+26476158
+.
+^
+Staddon, Chad; Rogers, Josh; Warriner, Calum; Ward, Sarah; Powell, Wayne (17 November 2018).
+"Why doesn't every family practice rainwater harvesting? Factors that affect the decision to adopt rainwater harvesting as a household water security strategy in central Uganda"
+.
+Water International
+.
+43
+(8):
+1114–
+1135.
+Bibcode
+:
+2018WatIn..43.1114S
+.
+doi
+:
+10.1080/02508060.2018.1535417
+.
+S2CID
+158857347
+.
+^
+Furumai, Hiroaki (2008).
+Recent application of rainwater storage and harvesting in Japan
+.
+^
+Lunduka, Rodney (2011).
+"ECONOMIC ANALYSIS OF RAINWATER HARVESTING AND SMALL-SCALE WATER RESOURCES DEVELOPMENT"
+.
+ResearchGate
+. Retrieved
+25 November
+2020
+.
+^
+Ibrahim, Gaylan Rasul Faqe; Rasul, Azad; Ali Hamid, Arieann; Ali, Zana Fattah; Dewana, Amanj Ahmad (April 2019).
+"Suitable Site Selection for Rainwater Harvesting and Storage Case Study Using Dohuk Governorate"
+.
+Water
+.
+11
+(4): 864.
+Bibcode
+:
+2019Water..11..864I
+.
+doi
+:
+10.3390/w11040864
+.
+Text was copied from this source, which is available under a
+Creative Commons Attribution 4.0 International License
+Archived
+2017-10-16 at the
+Wayback Machine
+.
+^
+Lange, J.; Husary, S.; Gunkel, A.; Bastian, D.; Grodek, T. (6 March 2012).
+"Potentials and limits of urban rainwater harvesting in the Middle East"
+.
+Hydrology and Earth System Sciences
+.
+16
+(3):
+715–
+724.
+Bibcode
+:
+2012HESS...16..715L
+.
+doi
+:
+10.5194/hess-16-715-2012
+.
+ISSN
+1607-7938
+.
+Archived
+from the original on 10 July 2022
+. Retrieved
+28 November
+2020
+.
+^
+Chen, Xuefei (27 August 2007).
+"Rainwater harvesting benefits farmers in Gansu"
+.
+People's Daily Online
+.
+Archived
+from the original on 20 October 2012
+. Retrieved
+10 July
+2018
+.
+^
+Hatch, Jacob.
+"The Many Benefits of Rainwater Harvesting"
+.
+Hydration Anywhere
+. Archived from
+the original
+on 13 December 2016
+. Retrieved
+3 August
+2018
+.
+^
+Pearce, Fred; Mackenzie, Debora (3 April 1999).
+"It's raining pesticides"
+.
+New Scientist
+. No. 2180.
+Archived
+from the original on 10 July 2018
+. Retrieved
+10 July
+2018
+.
+^
+"Low cost drinking water technology – rainwater harvesting with solar purification. Current Science, Vol. 118, No.6, 25 March 2020"
+(PDF)
+.
+Archived
+(PDF)
+from the original on 19 January 2022
+. Retrieved
+27 March
+2020
+.
+^
+Collecting and Using Rainwater at Home
+. Canadian Housing and Mortgage Corporation. 2013.
+^
+Duke, Katie (2014).
+"Ownership of Rainwater and the Legality of Rainwater Harvesting in British Columbia"
+.
+Appeal
+. Retrieved
+29 March
+2016
+.
+^
+a
+b
+"CANARM.org - Canadian Association for Rainwater Management"
+.
+www.canarm.org
+. Retrieved
+22 March
+2016
+.
+^
+"Homepage - Water, Septic Tanks and Rainwater Harvesting Systems Canada - Clean-Flo Rainwater Management"
+.
+Water, Septic Tanks and Rainwater Harvesting Systems Canada - Clean-Flo Rainwater Management
+. Retrieved
+22 March
+2016
+.
+^
+Kumar, M. Dinesh; Ghosh, Shantanu; Patel, Ankit; Singh, Om Prakash; Ravindranath, R.; Kumar, M. Dinesh; Ghosh, Shantanu; Patel, Ankit; Singh, Om Prakash; Ravindranath, R. (2006). Kumar, M. Dinesh; Ghosh, Shantanu; Patel, Ankit; Singh, Om Prakash; Ravindranath, R. (eds.).
+"Rainwater harvesting in India: some critical issues for basin planning and research"
+.
+Land Use and Water Resources Research
+.
+doi
+:
+10.22004/ag.econ.47964
+.
+^
+Button, Cat (4 May 2017).
+"Domesticating water supplies through rainwater harvesting in Mumbai"
+.
+Gender & Development
+.
+25
+(2):
+269–
+282.
+doi
+:
+10.1080/13552074.2017.1339949
+.
+ISSN
+1355-2074
+.
+S2CID
+80471348
+.
+^
+"India Rainwater Harvesting Market, By Type (Rain Barrel System, Dry System, Wet System, Green Roof System), By Harvesting Method (Above Ground {Ground Surface and Storage Tank}, Under Ground), By Application (Residential, Commercial, Industrial and Agricultural), By Region, By Competition Forecast & Opportunities, 2018–2028"
+.
+TechSci Research
+.
+^
+Johari, Aarefa (17 July 2019).
+"Mumbai could save water through its mandatory rainwater harvesting rule – but no one seems to care"
+.
+Scroll.in
+. Retrieved
+12 May
+2023
+.
+^
+"Harvesting rainwater for domestic uses: an information guide"
+(PDF)
+.
+Environment Agency
+. October 2010
+. Retrieved
+23 January
+2021
+.
+^
+"Rainwater Filters"
+. Rainharvesting Systems
+. Retrieved
+8 March
+2017
+.
+^
+"Rainwater harvesting"
+. SVCwater
+. Retrieved
+27 July
+2013
+.
+^
+"Rainwater Collection in Colorado"
+(PDF)
+.
+Colorado water law, notices
+. Colorado Division of Water Resources. Archived from
+the original
+(PDF)
+on 6 March 2016
+. Retrieved
+24 March
+2012
+.
+^
+"Criteria and Guidelines for the "Rainwater Harvesting"
+"
+(PDF)
+.
+Pilot Project Program
+. Colorado Water Conservation Board (CWCB). 28 January 2010. Archived from
+the original
+(PDF)
+on 5 March 2016
+. Retrieved
+24 March
+2012
+.
+^
+Johnson, Kirk (28 June 2009).
+"It's Now Legal to Catch a Raindrop in Colorado"
+.
+The New York Times
+. Retrieved
+30 June
+2009
+.
+^
+"82(R) H.B. No. 3391. An act relating to rainwater harvesting and other water conservation initiatives. † went into effect on September 1, 2011"
+.
+82nd Regular Session
+. Texas Legislature Online
+. Retrieved
+8 February
+2013
+.
+^
+"State Rainwater Harvesting Statutes, Programs and Legislation"
+.
+NCSL
+. Archived from
+the original
+on 8 October 2013
+. Retrieved
+7 February
+2013
+.
+^
+JMP (2016).
+"Joint Monitoring Programme Thailand Data"
+. Retrieved
+13 March
+2017
+.
+[
+permanent dead link
+]
+^
+Saladin, Matthias (2016).
+"Rainwater Harvesting in Thailand - learning from the World Champions"
+.
+Archived
+from the original on 29 January 2019
+. Retrieved
+13 March
+2017
+.
+^
+Harry Low (23 December 2016).
+"Why houses in Bermuda have white stepped roofs"
+.
+BBC News
+.
+Archived
+from the original on 23 December 2016
+. Retrieved
+23 December
+2016
+.
+^
+"Rainwater tanks"
+. Greater Wellington Regional Council. 28 April 2016. Archived from
+the original
+on 14 April 2016
+. Retrieved
+21 March
+2017
+.
+^
+"Parliament Of The Democratic Socialist Republic of Sri Lanka"
+(PDF)
+. Archived from
+the original
+(PDF)
+on 4 November 2013
+. Retrieved
+9 December
+2011
+.
+^
+"Lanka Rain Water Harvesting Forum (LRWHF)"
+.
+Archived
+from the original on 3 February 2015
+. Retrieved
+9 December
+2011
+.
+^
+Archidiacono, Stefano; Jeltsje Sanne, Kemerink-Seyoum; Irene, Leonardelli; Carolina, Dominguez Guzman; Tavengwa, Chitata; Zwarteveen, Margreet (1 September 2024).
+"Engineering as Tinkering Care: A Rainwater Harvesting Infrastructure in Cochabamba, Bolivia"
+.
+Engineering Studies
+.
+16
+(3):
+206–
+225.
+doi
+:
+10.1080/19378629.2024.2304176
+.
+ISSN
+1937-8629
+.
+^
+a
+b
+c
+d
+Mays, Larry; Antoniou, George & Angelakis, Andreas (2013).
+"History of water cisterns: Legacies and lessons"
+.
+Water
+.
+5
+(4):
+1916–
+1940.
+Bibcode
+:
+2013Water...5.1916M
+.
+doi
+:
+10.3390/w5041916
+.
+hdl
+:
+2286/R.I.43114
+.
+^
+"Rain water Harvesting"
+. Tamil Nadu State Government, India.
+Archived
+from the original on 12 August 2019
+. Retrieved
+23 January
+2012
+.
+^
+"Believes in past, lives in future"
+.
+The Hindu
+. India. 17 July 2010. Archived from
+the original
+on 9 October 2012.
+^
+"Rare Chola inscription found near Big Temple"
+.
+The Hindu
+. India. 24 August 2003. Archived from
+the original
+on 22 November 2003.
+^
+Kamash, Zena (2010).
+Archaeologies of Water in the Roman Near East
+. Gorgias Press.
+^
+"Water Supply Systems: Cisterns, Reservoirs, Aqueducts | Roman Building Technology and Architecture, University of California Santa Barbara"
+.
+ArchServe
+.
+Archived
+from the original on 18 July 2016
+. Retrieved
+13 April
+2018
+.
+^
+"Venetian wells"
+. Archived from the original on 9 May 2019
+. Retrieved
+29 August
+2016
+.
+^
+https://www.melbourne.vic.gov.au/SiteCollectionDocuments/rainwater-harvesting-guidelines.pdf
+[
+permanent dead link
+]
+^
+"PUB Water from Local Catchment"
+. Archived from
+the original
+on 6 May 2017
+. Retrieved
+24 May
+2025
+.
+^
+"Rainwater Harvesting Market Report"
+.
+Consegic Business Intelligence
+. Retrieved
+26 November
+2025
+.
+External links
+[
+edit
+]
+Rainwater harvesting
+at Wikipedia's
+sister projects
+Media
+from Commons
+Textbooks
+from Wikibooks
+Wikiversity has learning resources about
+Rainwater harvesting
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Rainwater_harvesting&oldid=1325476103
+"
+Categories
+:
+Rainwater harvesting
+Water supply
+Water conservation
+Irrigation
+Appropriate technology
+Hydrology and urban planning
+Sustainable gardening
+DIY culture
+Hidden categories:
+CS1 maint: location missing publisher
+CS1: long volume value
+Webarchive template wayback links
+All articles with dead external links
+Articles with dead external links from March 2021
+Articles with permanently dead external links
+CS1: unfit URL
+Articles with dead external links from June 2025
+Articles with short description
+Short description matches Wikidata
+Use dmy dates from November 2025
+Articles with excerpts
+Wikipedia articles needing clarification from June 2023
+Pages displaying short descriptions of redirect targets via Module:Annotated link
+Pages using Sister project links with default search

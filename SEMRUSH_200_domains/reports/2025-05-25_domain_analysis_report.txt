@@ -1,0 +1,106 @@
+Domain Analysis Report - 2025-05-25
+==================================================
+
+Total Domains Analyzed: 554
+Unsuitable Domains: 23
+Percentage Unsuitable: 4.15%
+
+Category Breakdown:
+Adult: 6 domains
+Gambling: 16 domains
+Pharmaceutical: 1 domains
+
+Detailed Results (Unsuitable Domains):
+--------------------------------------------------
+Domain: steveandbethany.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: linkbets.net
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: top-onlinecasinos.net
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: idrslot138.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: answersexpress.com
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: bettingbangladesh.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: infobetgacor.net
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: ochoaspharmacy.com
+  Matched Keywords: pharmacy
+  Matched Categories: Pharmaceutical
+
+Domain: bettingsites10.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: lordsexch1.com
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: vulcan-vipcasino.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: 789bet77.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: 80spornclassic.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: youngporntv.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: vulslotss.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: vulslotss.org
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: vulslotss.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: slot77online.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: gaydatingtipss.com
+  Matched Keywords: dating
+  Matched Categories: Adult
+
+Domain: allpoker.net
+  Matched Keywords: poker
+  Matched Categories: Gambling
+
+Domain: cratosslot.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: escortaustria.net
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: barcodeslot1.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+

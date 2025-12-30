@@ -1,0 +1,12 @@
+Analysis of domain_names:
+The following domains are missing backlink files:
+
+bayofconnections.com
+byjuslearning.com
+howwidelyspoken.com
+mobjectify.com
+mysolmat.com
+the-end-of-oil.com
+thenoma.com
+
+Total missing files: 7

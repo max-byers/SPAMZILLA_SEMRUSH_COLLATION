@@ -1,0 +1,53 @@
+DOMAIN SUITABILITY CRITERIA
+==========================
+
+1. FOOD-RELATED TERMS
+---------------------
+Domains containing terms related to:
+- Food and beverages (food, drink, eat, meal)
+- Dining establishments (restaurant, cafe, bistro, diner)
+- Food preparation (cooking, baking, grilling)
+- Food types (meat, seafood, vegetables, fruits)
+- Food industry (catering, delivery, dining)
+- Kitchen equipment (stove, oven, utensils)
+- Food-related businesses (bakery, butcher, grocery)
+- Beverages (coffee, tea, wine, beer)
+- Meals and courses (breakfast, lunch, dinner)
+- Food quality terms (organic, gourmet, vegan)
+
+2. NON-LITERATE WORDS
+---------------------
+- Domains with random letter combinations that don't form recognizable words
+- Exception: If non-literate portion is 4 letters or less
+- Exception: If combines literate words with short non-literate segments
+
+3. FULL NAMES
+-------------
+- Domains containing clear first+last name combinations
+- Single names by themselves are acceptable
+
+4. LOCATIONS
+------------
+- Domains containing geographic locations (cities, countries, regions)
+- Exception: "Australia" and "Melbourne" are allowed locations
+- Location acronyms (e.g., "ny" for New York, "la" for Los Angeles)
+
+5. BUSINESS INDICATORS (these make domains SUITABLE)
+---------------------------------------------------
+- Restaurants: cafe, restaurant, bistro, diner, eatery, grill
+- Services: services, solutions, consulting, agency
+- Retail: shop, store, market, boutique, mart
+- Professional: studio, agency, company, firm, group, inc, llc
+- Specific Industries: brewery, winery, bakery, tech, media
+
+6. CONCEPTUAL VS. SPECIFIC
+-------------------------
+- Prefer broad concepts that allow discussing various topics
+- Less desirable are very specific items limiting content scope
+
+7. BRAND/TRADEMARK CONCERNS
+---------------------------
+- Domains that clearly reference major brands or trademarks
+- Examples: microsoft, apple, google
+
+Note: This criteria list is regularly updated as new patterns are identified.

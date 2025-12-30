@@ -1,0 +1,25 @@
+Water Supply For Remote Australian Communities - CSIRO
+
+Background
+Unequal access to safe and reliable water supplies in remote areas of Australia, and more specifically in First Nations communities, disproportionately affects Aboriginal and Torres Strait Islander peoples.
+Poor reliability and quality of drinking water has flow-on effects for economic and health outcomes. Reliable and safe water of adequate quantity is essential for life, health and economic development.
+Windmill and water storage tank located in the Musgrave Province South Australia.
+Challenges and Solutions
+The challenges for effective delivery of water supplies in remote areas are complex.
+These challenges include water scarcity, extreme water quality issues associated with geochemically rich groundwater, high treatment costs, limited capacity for maintenance of infrastructure (such as treatment plants, borefields and pumps), and supply chains that are impacted by distance, road conditions and limited access during the wet season.
+It is vital that the technical solutions that are developed to overcome these challenges recognise individual community needs and ensure local input into decision making.
+Through a study funded by the
+National Water Grid Authority
+, we have provided an overview of the challenges of remote water supply. We have identified the key water quality issues and the technology currently used to treat this water.  We also outlined some of the technological advances in water treatment that may address some of the current challenges for remote communities.
+The report provides the National Water Grid Authority with a framework for reviewing alternative and emerging water treatment technologies to provide safe and reliable water supplies in remote communities (including First Nations communities), and to guide the prioritisation of investment in water infrastructure.
+Current water treatment technologies have the potential to treat most water quality concerns. However, ongoing development of emerging technologies may be warranted for the purpose of:
+developing systems that are robust, effective and fail-safe under extreme conditions or with limited maintenance
+reducing the need for chemical transport, handling and dosing
+providing more efficient desalinisation methods, reducing waste stream generation and minimising water wastage
+reducing energy consumption and integrating with renewable energy sources such as solar
+developing alternative disposal options for brines and other wastes, including safe disposal of uranium, and
+developing technology for treatment of extreme and emerging water quality issues.  Electrocholrination, capacitive deionisation, adsorption, novel osmosis technology and atmospheric water harvest may have potential to address some of these challenges.
+Artesian Bore located at Go Go Station, Fitzroy Crossing Western Australia.
+View the report for
+Water quality review and treatment technology framework for remote community water supply
+.

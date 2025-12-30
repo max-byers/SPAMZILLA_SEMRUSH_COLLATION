@@ -1,0 +1,74 @@
+Domain Analysis Report - 2025-05-27
+==================================================
+
+Total Domains Analyzed: 510
+Unsuitable Domains: 15
+Percentage Unsuitable: 2.94%
+
+Category Breakdown:
+Adult: 5 domains
+Gambling: 10 domains
+Pharmaceutical: 0 domains
+
+Detailed Results (Unsuitable Domains):
+--------------------------------------------------
+Domain: bingojackson.com
+  Matched Keywords: bingo
+  Matched Categories: Gambling
+
+Domain: seospecialistflorida.com
+  Matched Keywords: cialis
+  Matched Categories: Adult
+
+Domain: porngere.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: demoolympusslot.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: bestonlinecasinoinkorea.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: instaporn.org
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: free-slot-club.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: onlinecasino-free.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: elizabethfraser.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: la-case-de-babette.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: duchessescort.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: fivestarsbets.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: normalbet88.net
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: cialis5price5.com
+  Matched Keywords: cialis
+  Matched Categories: Adult
+
+Domain: normalbetting88.biz
+  Matched Keywords: bet
+  Matched Categories: Gambling
+

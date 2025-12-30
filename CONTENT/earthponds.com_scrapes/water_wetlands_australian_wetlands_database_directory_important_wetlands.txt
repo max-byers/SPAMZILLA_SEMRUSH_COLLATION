@@ -1,0 +1,113 @@
+Directory of Important Wetlands in Australia - DCCEEW
+
+The Directory of Important Wetlands in Australia (the Directory) was first published in 1993. The Directory was compiled with the cooperation of conservation agencies and other resource managers in all jurisdictions.
+The Directory not only identifies nationally important wetlands, it provides a substantial knowledge base of what defines wetlands, their variety, and the many flora and fauna species that depend on them. In addition, it contains information about their social and cultural values and some of the ecosystem services and benefits they provide. It is a valuable tool for managers and others interested in Australia's important wetlands.
+Although the Directory was previously published in hard copy, it is now no longer available in hard copy. However, the online inventory of the Directory is available - the
+Australian Wetlands Database
+. The Australian Wetlands Database holds descriptions of more than 900 Directory wetlands, as well as Australia’s Ramsar Wetlands of International Importance.
+Note that the Directory information has not been updated since 2005, and is maintained for reference purposes.
+Find a Directory wetland
+Criteria for determining nationally important wetlands
+The criteria for determining nationally important wetlands in Australia, and hence their eligibility for inclusion in the Directory, are those agreed to by the
+ANZECC
+Wetlands Network in 1994.
+A wetland may be considered nationally important if it meets at least one of the following criteria:
+It is a good example of a wetland type occurring within a biogeographic region in Australia.
+It is a wetland which plays an important ecological or hydrological role in the natural functioning of a major wetland system/complex.
+It is a wetland which is important as the habitat for animal taxa at a vulnerable stage in their life cycles, or provides a refuge when adverse conditions such as drought prevail.
+The wetland supports 1% or more of the national populations of any native plant or animal taxa.
+The wetland supports native plant or animal taxa or communities which are considered endangered or vulnerable at the national level.
+The wetland is of outstanding historical or cultural significance.
+Application of the criteria to individual wetland sites involves a degree of subjectivity. Not only may certain aspects of a site's significance be interpreted differently by different investigators, but information gaps often exist which make it difficult to judge whether or not a site meets a particular criterion.
+Adoption of a bioregional approach to listing sites in the Directory is seen as one way of reducing the difficulty in applying the criterion relating to a system's uniqueness or representativeness. The Natural Resource Policies and Programs Committee in 2008 agreed to adopt the Australian Drainage Divisions system, along with IMCRA for marine ecosystems, as the best fit national regionalization approach for aquatic ecosystems.
+Directory Wetland classification system
+The wetland classification system used in the Directory identifies 40 different wetland types in three categories:
+A.
+Marine and Coastal Zone wetlands
+B.
+Inland wetlands
+, and
+C.
+Human-made wetlands
+.
+This system was agreed to by the then
+ANZECC
+Wetlands Network in 1994. It is based on that used by the Ramsar Convention in describing Wetlands of International Importance, but was modified slightly to suit the Australian situation in describing wetlands of national importance.
+A. Marine and coastal zone wetlands
+Marine waters - permanent shallow waters less than six metres deep at low tide; includes sea bays, straits.
+Subtidal aquatic beds; includes kelp beds, seagrasses, tropical marine meadows.
+Coral reefs.
+Rocky marine shores; includes rocky offshore islands, sea cliffs.
+Sand, shingle or pebble beaches; includes sand bars, spits, sandy islets.
+Estuarine waters; permanent waters of estuaries and estuarine systems of deltas.
+Intertidal mud, sand or salt flats.
+Intertidal marshes; includes salt-marshes, salt meadows, saltings, raised salt marshes, tidal brackish and freshwater marshes.
+Intertidal forested wetlands; includes mangrove swamps, nipa swamps, tidal freshwater swamp forests.
+Brackish to saline lagoons and marshes with one or more relatively narrow connections with the sea.
+Freshwater lagoons and marshes in the coastal zone.
+Non-tidal freshwater forested wetlands.
+B. Inland wetlands
+Permanent rivers and streams; includes waterfalls.
+Seasonal and irregular rivers and streams.
+Inland deltas (permanent).
+Riverine floodplains; includes river flats, flooded river basins, seasonally flooded grassland, savanna and palm savanna.
+Permanent freshwater lakes (>8 ha); includes large oxbow lakes.
+Seasonal/intermittent freshwater lakes (>8 ha), floodplain lakes.
+Permanent saline/brackish lakes.
+Seasonal/intermittent saline lakes.
+Permanent freshwater ponds (
+Seasonal/intermittent freshwater ponds and marshes on inorganic soils; includes sloughs, potholes; seasonally flooded meadows, sedge marshes.
+Permanent saline/brackish marshes.
+Seasonal saline marshes.
+Shrub swamps; shrub-dominated freshwater marsh, shrub carr, alder thicket on inorganic soils.
+Freshwater swamp forest; seasonally flooded forest, wooded swamps; on inorganic soils.
+Peatlands; forest, shrub or open bogs.
+Alpine and tundra wetlands; includes alpine meadows, tundra pools, temporary waters from snow melt.
+Freshwater springs, oases and rock pools.
+Geothermal wetlands.
+Inland, subterranean karst wetlands.
+C. Human-made wetlands
+Water storage areas; reservoirs, barrages, hydro-electric dams, impoundments (generally >8 ha).
+Ponds, including farm ponds, stock ponds, small tanks. (generally
+Aquaculture ponds; fish ponds, shrimp ponds.
+Salt exploitation; salt pans, salines.
+Excavations; gravel pits, borrows pits, mining pools.
+Wastewater treatment; sewage farms, settling ponds, oxidation basins.
+Irrigated land and irrigation channels; rice fields, canals, ditches.
+Seasonally flooded arable land, farm land.
+Canals
+Directory of Important Wetlands in Australia data
+Wetlands data have been received from:
+Environment
+ACT
+-
+ACT
+references
+NSW
+Department of Conservation and Environment -
+NSW
+references
+NT
+Department of Infrastructure Planning and Environment -
+NT
+references
+Qld
+Environmental Protection Agency -
+Qld
+references
+SA
+Department of Environment and Heritage -
+SA
+references
+Tas
+Department of Primary Industries, Water and the Environment -
+Tas
+references
+Vic
+Department of Sustainability and Environment -
+Vic
+references
+WA
+Department of Conservation and Land Management -
+WA
+references

@@ -1,0 +1,94 @@
+DEA Waterbodies | Geoscience Australia
+
+Derived data product
+DEA Waterbodies
+Page last updated:
+10 April 2025
+Home
+Geoscience Australia
+>
+Scientific topics
+>
+Digital Earth Australia
+>
+DEA data and products
+>
+DEA Waterbodies
+DEA Waterbodies
+Updated
+Continuously |
+Satellite data from
+Landsat |
+Data since
+1986 |
+Released
+2024
+Home
+Geoscience Australia
+>
+Scientific topics
+>
+Digital Earth Australia
+>
+DEA data and products
+>
+DEA Waterbodies
+DEA Waterbodies
+Quick links
+See it on a map
+Product details
+Get the data
+Python notebook
+Product credits
+Home
+Geoscience Australia
+>
+Scientific topics
+>
+Digital Earth Australia
+>
+DEA data and products
+>
+DEA Waterbodies
+DEA Waterbodies
+Find water across the country
+Locate over 300,000 waterbodies across Australia and look back at their changes over three decades with Digital Earth Australia (DEA) Waterbodies. Monitor critical lakes and dams, including hard-to-reach waterbodies in remote areas and on large properties.
+Explore the online map to find all waterbodies larger than 2,700 sq m (three Landsat satellite image pixels) that are present more than 10% of the time.
+Download the data to identify when waterbodies have increased or decreased their wet surface area, informing plans for the future.
+DEA Waterbodies defines polygon boundaries around the significant water areas of Western Australia’s Lake Carnegie, revealing changes in wet area within each polygon over time.
+DEA Waterbodies interactive map
+Visit
+DEA Maps
+to get the full interactive map with DEA Coastlines and other DEA products.
+Why detect waterbodies?
+Gain insights into the severity and spatial distribution of drought
+Identify potential water sources for aerial firefighting during bushfires
+Understand local through to national-scale surface water dynamics over time and geography
+Get deeper insight into DEA Water Observations data
+Imagery for impact
+Finding water to fight fire
+Satellite data maps of Australian waterbodies are fuelling a more confident flightpath for Victoria’s Country Fire Authority.
+Learn more
+Related resources
+Journal Article
+Mapping and Monitoring the Multi-Decadal Dynamics of Australia’s Open Waterbodies Using Landsat.
+Journal Article
+View publication
+Seminar: Australian Water
+Hear from Digital Earth Australia’s Dr Claire Krause about using satellite information in decision making.
+Seminar: Australian Water
+Watch the video
+Default
+Default
+Learn
+more
+Join our community
+Discord for support
+Ask questions of the many data and spatial analysts, developers and scientists managing and experimenting with DEA data.
+Join our Discord channel
+Express your interest
+Got a project that needs a big picture? We’re open to collaborative projects with government, industry and communities that serve Australia’s future.
+Contact us
+Get our newsletter
+Stay informed of new products, seminars and learning opportunities from DEA and our partners.
+Subscribe

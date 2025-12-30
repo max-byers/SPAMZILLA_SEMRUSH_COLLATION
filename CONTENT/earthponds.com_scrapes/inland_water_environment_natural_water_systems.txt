@@ -1,0 +1,228 @@
+Natural water systems | Australia state of the environment 2021
+
+The health of our natural water systems – including our rivers, streams, lakes and wetlands – is affected by both natural processes, particularly rainfall levels, and human influences, including water use and contamination.
+Rivers and streams
+As the driest inhabited continent, Australia does not have many high-volume large rivers or large permanent lakes. Of the rivers it does have, the inland rivers are unusual among rivers found around the world (
+Davis 2007
+). Australia’s inland rivers have highly variable streamflows in response to the highly variable rainfall. Unlike in other countries, where rivers have regular flows both across the year and between years, many of Australia’s rivers have no regular pattern of flow; they can go for years with very low flows, followed by one or more years of floods.
+On average, only 9% of rainfall in Australia becomes run-off, and approximately 2% percolates through the soil to recharge groundwater. The rest evaporates back into the atmosphere, mainly through vegetation. Only a small proportion of Australia’s renewable water resources is consumed each year (
+Davis 2007
+).
+As expected, the widespread rainfall deficiencies experienced across Australia from 2017–18 to 2019–20 resulted in very-much-below-average and lowest-on-record streamflows (Figures 14a–d).
+In 2016–17 (Figure 14a), average to higher-than-average flows predominated in all states and territories and the Murray–Darling Basin. With the exception of Queensland and the Northern Territory, all states had streamflow monitoring sites that recorded the highest streamflow since 1975.
+In contrast, by 2018–19, lower-than-average flows were dominant over much of Australia (Figure 14c), with two-thirds of the streamflow gauges recording lower-than-average annual flows. More than one-quarter of all sites across New South Wales, the Australian Capital Territory and South Australia recorded their lowest annual streamflows on record. In the Murray–Darling Basin, lowest-on-record streamflows were observed in the headwaters of the rivers and in the Baaka/Barka – Darling River system. Streamflows remained low from the top reaches to the confluence with the River Murray, and the annual streamflow at Bourke was the lowest on record.
+Higher-than-average flows were dominant in northern Queensland, and annual streamflows in several rivers across the region were the highest on record. Heavy rainfall in early 2019 produced extensive flooding in Townsville, major flooding in the Burdekin River and high flows into Kati Thanda–Lake Eyre, resulting in an explosion of biodiversity that was exemplified by large bird numbers. The Aerial Survey of Wetland Birds in Eastern Australia
+(
+Kingsford et al. 2020
+)
+found a significant increase in waterbird abundance in the Lake Eyre Basin (Figure 15). In contrast, decreases in bird abundance were evident in 3 other basins, including the Murray–Darling Basin.
+In 2019–20 (Figure 14d), poor rainfall and dry soils over much of Australia during the first 6 months contributed to average to lower-than-average streamflow across the whole country. In the Murray–Darling Basin, flow in most of the rivers had reached record low levels by December 2019. Above-average rainfall across large areas of New South Wales and Victoria in the early part of 2020, particularly during February–April, resulted in some recovery, with flows occurring in all the major rivers within the Murray–Darling Basin. Flow in the lower Baaka/Barka – Darling River connected with the River Murray in mid-April 2020 for the first time since January 2018.
+Figure 14
+Streamflow deciles at long-term monitoring stations throughout Australia, 2016–20
+Sources:
+BOM (2018c), BOM (2019c), BOM (2020d), BOM (2021c)
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Figure 15
+Waterbird abundance in major river basins, 2018–19
+Source:
+Kingsford et al. (2020)
+Download
+Go to data.gov
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Fish deaths
+South-eastern Australia witnessed significant impacts from drought and management challenges in the form of 3 major fish deaths in the lower Baaka/Barka – Darling River in 2018–19. Reviews were conducted by the
+Australian Academy of Science (2019)
+and the Murray–Darling Basin Authority
+(
+Vertessy et al. 2019
+)
+. Both reports had similar findings, with major recommendations for change in the way that states and territories manage water. The Academy of Science report stated that ‘the root cause of the fish kills is that there is not enough water in the Darling system to avoid catastrophic decline of condition through dry periods’. The fish deaths caused considerable distress for the Barkandji people; native title of the Barkandji and Malyangapa people is in affected areas, and the water-planning instrument for the Barwon–Darling River (Water Sharing Plan) left them with 0 megalitres for their positive native title determination
+(
+Hartwig et al. 2018
+)
+(see the
+Aquatic ecosystems and habitats
+section in the Biodiversity chapter) and (see the
+Fish
+section in the Biodiversity chapter).
+Natural lakes
+Australia’s natural freshwater lakes are a result of the geological processes that formed the continent. Because of the absence of the tectonic and glacial activity observed in other countries, Australia has only a few natural freshwater lakes. These can be found as lakes and lagoons on the coast; inland lakes, which are often part of a wetland; and salt lakes in the central desert areas. Glacial lakes and lakes in the craters of extinct volcanoes can be found mainly in Tasmania.
+The very dry years since 2016 and low streamflows have adversely impacted many of Australia’s natural lakes.
+Menindee Lakes
+The Menindee Lakes are located in south-western New South Wales on the Baaka/Barka – Darling River about 200 kilometres (km) upstream of the river’s junction with the River Murray
+(
+MDBA 2021a
+)
+. They comprise a system of 9 large, but relatively shallow, lakes. The 4 main lakes are Lake Wetherell, Lake Pamamaroo, Lake Menindee (the largest lake) and Lake Cawndilla. The lakes cover an area of 475 square kilometres (km
+2
+) and have a catchment area of 273,229 km
+2
+.
+Historically, flows into the Menindee Lakes occur following heavy rain in the upper catchments, which results in floods in the upstream tributaries that make their way downstream. Between floods, the Darling Rover/Baaka can dry out, with practically no inflow at all. Even though large floods can occur at any time of the year, they most frequently occur in March following late summer rains in the northern headwaters in Queensland, and from July to September due to late winter rains in the Border Rivers or New South Wales tributaries. When floods occur, it can take several months for the water to make its way along the system to the Menindee Lakes. However, the floods that reach the Menindee Lakes are often attenuated because a large volume of the water is absorbed by the floodplain or evaporates as it flows slowly over very flat terrain.
+The recent dry years have had a significant impact on the Baaka/Barka – Darling River, with consequences for the volume of water in the Menindee Lakes. This has been compounded by the New South Wales Government amending the Barwon–Darling water regulations in 2012 to facilitate greater upstream extraction by water users. The storage volume fell to less than 10 gigalitres in December 2019 and did not start to increase until March 2020 (Figure 16). This had a significant impact on the quality of the water in the Menindee Lakes, which, together with the low volume in the Lakes, adversely impacted bird populations and contributed to the death of 1 million fish in the lakes (Figure 17a).
+In March 2021, areas in the northern Murray–Darling Basin experienced heavy rainfall, causing large floods, including the largest flood in the Macintyre River at Goondiwindi since 2011. The floodwaters made their way down the Barwon and Baaka/Barka rivers, reaching the Menindee Lakes in April 2021. On 22 April, there was sufficient water to enable the gates between Lake Pamamaroo and Lake Menindee to be opened for the first time since 2016. The filling of the Lakes is expected to result in an increase in bird, fish and plant life (Figure 18).
+Figure 16
+Menindee Lakes combined storage volume, January 2017 to May 2021
+GL = gigalitre
+Source:
+River Murray data (2021)
+Download
+Go to data.gov
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Figure 17
+(a) Menindee Lakes on 2 February 2019, with the green colour in the lakes caused by algae and other vegetation; (b) on 14 May 2021, with the milky grey colour due to suspended sediment stirred up by the filling of the lakes
+Source:
+Patel (2021)
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Figure 18
+Open gates between Lake Pamamaroo and Lake Menindee, and the return of bird life to the Menindee Lakes, May 2021
+Photos: Sigrid Tijs, Bureau of Meteorology
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Kati Thanda–Lake Eyre
+Kati Thanda–Lake Eyre is a large lake system located within the arid and semi-arid deserts of central Australia. It contains the country’s lowest point (15.2 m below sea level). It is an endorheic lake, which means that the water flows in but does not flow out. In most years, some water reaches the lake, although the coverage is often quite low. When water does enter the lake, most parts are only a few centimetres deep. The last time the lake was considered to have full coverage was in 1974. On the rare occasions that it fills completely, it is the largest lake in Australia, covering an area of up to 9,500 km
+2
+. When the lake is full, it has the same salinity level as seawater, but it becomes hypersaline as it dries up and the water evaporates.
+The lake is of high environmental importance, with many waterbirds flocking to the lake and rivers to feed and breed following inflows. When flooded, the waterways support aquatic invertebrates, fish populations, a diverse frog community and rare plants. Some wetlands in Kati Thanda–Lake Eyre support fish known to reach 80 years of age
+(
+DAWE 2020a
+)
+.
+The Kati Thanda–Lake Eyre area has had high cultural significance to Aboriginal people for tens of thousands of years. The Traditional Owners of the area are the Arabana people. Kati Thanda–Lake Eyre plays a central role in many of the Arabana people’s stories and songs.
+After above-average rainfall in 2015–16 and 2016–17, the Kati Thanda–Lake Eyre area received below-average rainfall for the 2 years 2017–18. However, 2 heavy rainfall events across the upper Diamantina and Georgina river catchments from late January to March 2019 generated notable run-off into the Lake Eyre Basin. More than 8 Sydney Harbours’ worth of water passed through Birdsville between the start of February and the end of June. Water first reached Kati Thanda–Lake Eyre in mid-March; inflows peaked later in March and early June, before slowly receding
+(
+BOM 2019d
+)
+.
+The flows into Kati Thanda–Lake Eyre had a significant effect on the environment (Figure 19). The water brings the nutrients required for microinvertebrates to flourish, which attracts fish. This is followed by waterbirds, including Australian pelicans (
+Pelecanus conspicillatus
+), silver gulls (
+Chroicocephalus novaehollandiae
+) and banded stilts (
+Cladorhynchus leucocephalus
+), which nest on the islands in the lake. The inundation of Kati Thanda–Lake Eyre also results in proliferation of wildflowers and growth of pastures
+(
+Sheldon & Kingsford 2013
+)
+.
+Figure 19
+Pelicans on Kati Thanda–Lake Eyre, and fish filling the river in Birdsville
+Photos: Reproduced by permission of the Australian Broadcasting Corporation – Library Sales, Brendan Esposito, © 2019 ABC
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Wetlands
+‘Wetlands are a critical part of the natural environment and provide an important range of environmental, social and economic services. They protect shores from wave action, reduce the impacts of floods, absorb pollutants and improve water quality. They provide habitat for animals and plants and many contain a wide diversity of life, supporting plants and animals that are found nowhere else’
+(
+Schram 2020
+)
+.
+Many wetlands are areas of great natural beauty, and many are important to Aboriginal and Torres Strait Islander people (see
+case study: Filling of Narran Lakes/Dharriwaa
+). Wetlands have significance as ceremonial and initiation sites, and traditional hunting and gathering grounds
+(
+Department of the Environment 2016
+)
+. Wetland plants and animals have many traditional uses as food, fibre, containers, tools, weapons, transport, shelter and medicine. Many wetland species also have significance as totems
+(
+Department of the Environment (2016)
+)
+(see the
+Indigenous
+chapter).
+Wetlands also provide important benefits for industry. For example, they form nurseries for fish and other freshwater and marine life, and are critical to Australia’s commercial and recreational fishing industries
+(
+DAWE 2020b
+)
+.
+The return to drought conditions since 2016, in conjunction with increased consumptive water use, has resulted in a decrease in flows into wetlands and reduction in inundation. The Aerial Survey of Wetland Birds in Eastern Australia
+(
+Kingsford et al. 2020
+)
+found that the wetland area index was the lowest since surveys began (Figure 20).
+Figure 20
+Changes in wetland area, 1983–2019
+Source:
+Kingsford et al. (2020)
+Download
+Go to data.gov
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Wetlands, which may be natural or artificial, include:
+swamps and marshes
+billabongs, lakes and lagoons
+saltmarshes and mudflats
+mangroves and coral reefs
+bogs, fens and peatlands.
+Australia has 65 Ramsar wetlands that cover more than 8.3 million hectares (Figure 21). The Convention on Wetlands of International Importance especially as Waterfowl Habitat 1971 governs Ramsar wetlands that are included on the List of Wetlands of International Importance. The listed wetlands are included because they are representative, rare or unique wetlands, or are important for conserving biological diversity. As a Contracting Party to the Ramsar Convention, Australia has an obligation to ‘wisely use’ all wetlands and aquatic ecosystems. Indigenous people manage or jointly manage 11 of the 65 Australian wetlands designated as internationally important under the Ramsar Convention.
+In addition, a further 900 wetlands are listed on the Australian Wetlands Database; however, because this database has not been updated since 2005, this number is likely to be an underestimate. In February 2021, the Australian Government made a commitment to develop a national wetlands inventory
+(
+Ley 2021
+)
+.
+Figure 21
+Ramsar wetlands of Australia
+Note: A number of wetlands are on offshore islands.
+Source:
+DAWE (2021b)
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Assessment
+Condition of water-dependent ecosystems and heritage
+2021
+Limited confidence
+The drought years experienced since 2016 have had significant impact on water-dependent ecosystems and culturally significant sites, which have received only very limited and sporadic to zero inflows, and there have been limited opportunities for filling through environmental watering. This has resulted in degradation of habitats, and reduction of breeding grounds and refuges.
+Related to United Nations Sustainable Development Goal targets 6.6, 15.1
+Legend
+How was this assessment made
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link
+Case Study
+Filling of Narran Lakes/Dharriwaa
+The Narran Lakes/Dharriwaa have long played an important role for Indigenous people. The Narran Lakes have significant Indigenous cultural value, and are the site of many important Indigenous artefacts, including a rock quarry. In the past, these rocks were used to make tools and to trade between tribes, and there is extensive archaeological evidence of a long history of Indigenous use and occupation of the lake system. The lakes were a rich source of food and other resources for Indigenous people, and were an important meeting and trading place for Euhlaroi, Euahlayi, Kamilaroi, Murawarri, Ngemba, Ngiyampaa and Wayilwan people. Further afield, the Barkandji, Bigambul, Kooma and Mandandanji people also have cultural connections with the Kamilaroi and Euhlaroi/Euaylayi
+(
+Davies et al. 2020
+)
+.
+The Narran Lakes wetland system is an internationally recognised Ramsar wetland and an important waterbird habitat. Endangered native waterbirds rely on the lakes to breed and survive.
+Between 2017 and 2019, long-term rainfall deficiencies developed in the Condamine–Balonne catchment, particularly the Upper Condamine (Figure 22). The 2019 rainfall was the lowest annual rainfall on record for the catchment since 1911. At only 177 mm, it was 50 mm lower than the nearest record set in 1915, and 121 mm lower than the 298 mm received in 2006 at the peak of the millennium drought.
+Figure 22
+Rainfall deficiencies in the Condamine–Balonne catchment, 2017–19
+The lack of rain affected soil moisture, water storages, groundwater and river flow, and the human and environmental systems that rely on them. The total volume of water in the major storages in the region fell to 4% in January 2020, the lowest since 2009, with Beardmore water storage at only 2% (Figure 23).
+In February 2020, most of the Condamine–Balonne catchment received 25–200 mm of rain. The rain was widespread and delivered through a series of rain bands. The February rain started the rivers flowing and weirs filling. Beardmore water storage went from 2% to 100% in only 8 days and started spilling on 15 February.
+Figure 23
+Water storage levels in Beardmore water storage (Lake Kajarabie, 86 gigalitre capacity)
+Source:
+BOM (2020h)
+Download
+Go to data.gov
+The water started to make its way down the system from early February. Flow in the Balonne River peaked north of St George at Weribone at more than 160 gigalitres/day before joining the flow from the Maranoa River and quickly filling Beardmore and Jack Taylor water storages. The water then spilled out across the landscape through the braided rivers system and floodplains of the lower catchment.
+One of the great beneficiaries of this flood event was the Narran Lakes wetland system, which receives water during large flows in the lower Balonne River. Flow into the wetlands was aided by Queensland water-planning rules, water from Commonwealth environmental licences and voluntary contributions to environmental flows from irrigators in the catchment. Major flows first reached the wetlands on 29 February and peaked on 20 March – the first significant inflows in 8 years (Figure 24).
+Figure 24
+Clear Lake, Narran Wetlands, on (from top to bottom) 3, 6 and 19 March
+Photos: Commonwealth Environmental Water Office
+Share on Twitter
+Share on Facebook
+Share on Linkedin
+Share this link

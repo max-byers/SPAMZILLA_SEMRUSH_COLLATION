@@ -1,0 +1,25 @@
+Domain Analysis Report
+====================
+
+Processed Domains:
+-----------------
+run 
+
+Domains with Suspicious Backlinks:
+--------------------------------
+etowndegrees.com
+   - Number of suspicious backlinks: 6
+
+fabxc.org
+   - Number of suspicious backlinks: 34
+
+limitengineering.com
+   - Number of suspicious backlinks: 1
+
+Domains with No Suspicious Backlinks:
+-----------------------------------
+123ecommerce.com
+getraddle.com
+ouraynet.com
+
+Note: Backlinks with more than 5000 external links were filtered out during analysis. 

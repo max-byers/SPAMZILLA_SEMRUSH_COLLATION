@@ -1,0 +1,27 @@
+Domain Analysis Report - 2025-08-17
+============================================================
+
+Total Domains: 1547
+Dodgy Domains: 39
+Excessive Drops (>2): 353
+Age/Drop Ratio <=2: 46
+Clean Domains: 1109
+
+Category Breakdown:
+  Adult: 13
+  Gambling: 22
+  Pharmaceutical: 4
+
+Expiry breakdown (next 7 days):
+  2025-08-17: 120
+  2025-08-18: 101
+  2025-08-19: 89
+  2025-08-20: 82
+  2025-08-21: 78
+  2025-08-22: 88
+  2025-08-23: 79
+  2025-08-24: 104
+
+Auction Source Breakdown:
+  Namecheap Auctions: 794 (51.33%)
+  GoDaddy Auctions: 753 (48.67%)

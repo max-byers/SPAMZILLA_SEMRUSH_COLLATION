@@ -1,0 +1,111 @@
+Australian Drainage Divisions and River Basin Boundaries: About: Water Information: Bureau of Meteorology
+
+Bureau Home
+»
+Water Information
+»
+About
+» Australian Drainage Divisions and River Basin Boundaries
+Water Information
+Water data
+Design Rainfalls
+Geofabric
+Groundwater Information
+Hydrologic Reference Stations
+Murray-Darling Basin Water Information
+Water Markets Information
+Water Data Online
+Water status
+Water Assessments
+National Water Account
+Urban National Performance Report
+Urban Water Information
+Water Restrictions
+Water Storage
+Water forecasts
+7-day Streamflow Forecasts
+Seasonal Streamflow Forecasts
+Regulations
+Find your organisation
+About the Regulations
+Background
+Principles and Policies
+Categories of Persons
+Categories of Water Information
+Subcategories of Water Information
+Amendments
+Regulator performance framework
+Interagency Working Group report
+Regulations Data
+Data Format Requirements
+Data Delivery
+Metadata and Contextual Information
+Data Licensing
+Incorporated documents
+Commercially Sensitive Sites
+Metadata and Contextual Information Requirements
+Persons and Classes of Persons
+Urban Water Management Information Requirements
+Standards
+Water Data Transfer Format
+About
+WDTF
+Download
+WDTF
+WDTF
+Validation
+WDTF
+Tools
+WDTF
+FAQ
+About Standards
+Collaborative Approach
+National Industry Guidelines for hydrometric monitoring
+National Industry Guideline for water quality metadata
+Water Accounting Standards
+Australian Water Accounting Standards
+Resources
+Development
+Frequently asked questions
+Flood Warning Standard
+About
+Water information role
+Water contacts
+Publications
+Video
+Topographic Drainage Divisions and River Regions
+Topographic Drainage Divisions and River Regions derived from the Australian Hydrological Geospatial Fabric
+Topographic Drainage Divisions and River Regions are derived from the Australian Hydrological Geospatial Fabric (the Geofabric).
+Providing a set of surface water reporting units based on drainage-enforced digital elevation models, they are used to depict where water flows and drains across the landscape.
+Topographic Drainage Divisions and River Regions updates boundaries based on current research, data and technology. It references previous work of the Australian Water Resources Management Committee as shown in Australia's River Basins 1997. The divisions and regions exist within the Geofabric's Hydrology Reporting Regions with data available for
+download
+.
+This work is a collaboration of scientists from the Bureau of Meteorology, Australian National University Fenner School of Environment and Society, CSIRO Water for Healthy Country Flagship and Geoscience Australia.
+Topographic Drainage Divisions and River Regions map
+Australia's River Basins 1997
+Australian Drainage Divisions and River Basin boundaries, derived from Geoscience Australia data
+The Australia's River Basins 1997 project was a joint State, Territory and Australian Government initiative to create a national spatial database of major hydrological basins. It shows Australia's basin boundaries as defined by the Australian Water Resources Management Committee.
+The Australian continent is divided into drainage divisions that are sub-divided into water regions and then into river basins. The data includes the name and number of each of the 245 basins, 77 regions, and 12 divisions. The custodian of this
+data
+is Geoscience Australia.
+Low resolution image of divisions and basins
+High resolution image of divisions and basins
+(includes a lat-long grid)
+Related links
+Related water sites
+National River Basin Boundaries
+Rain, River & Storage Data
+Related links
+Flood knowledge centre
+Murray Darling Basin water information
+National flood forecasting and warning arrangements
+Water Act 2007
+Water Regulations 2008
+Water market information
+Water Dictionary
+Publications
+Contact Us
+Subscribe
+to e-news
+Watch
+water videos

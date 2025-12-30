@@ -1,0 +1,194 @@
+Domain Analysis Report - 2025-05-14
+==================================================
+
+Total Domains Analyzed: 1177
+Unsuitable Domains: 45
+Percentage Unsuitable: 3.82%
+
+Category Breakdown:
+Adult: 13 domains
+Gambling: 27 domains
+Pharmaceutical: 6 domains
+
+Detailed Results (Unsuitable Domains):
+--------------------------------------------------
+Domain: elisabettacanalis.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: gratistablet.org
+  Matched Keywords: tablet
+  Matched Categories: Pharmaceutical
+
+Domain: bethpascall.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: raksasapoker.net
+  Matched Keywords: poker
+  Matched Categories: Gambling
+
+Domain: totalcasinospl.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: msn-beta.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: thesupplementrating.com
+  Matched Keywords: supplement
+  Matched Categories: Pharmaceutical
+
+Domain: viagrawithoutdoctoruk.com
+  Matched Keywords: viagra
+  Matched Categories: Adult
+
+Domain: cialiscouponpharmacy.com
+  Matched Keywords: cialis, pharmacy
+  Matched Categories: Pharmaceutical, Adult
+
+Domain: ketosupplementszone.com
+  Matched Keywords: supplement
+  Matched Categories: Pharmaceutical
+
+Domain: dafabetz.org
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: sbobet88mu.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: dafabetapp.org
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: dafabet-apps.org
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: naga1188slot.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: luckylottoweb.com
+  Matched Keywords: lotto
+  Matched Categories: Gambling
+
+Domain: elizabethandjoshua.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: betinecasinos.com
+  Matched Keywords: bet, casino
+  Matched Categories: Gambling
+
+Domain: andywarholsexlife.com
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: casinos-online-au.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: elizabethsfootprint.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: callgirlsescortslahore.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: no1escortahmedabad.com
+  Matched Keywords: escort
+  Matched Categories: Adult
+
+Domain: adultturkce.com
+  Matched Keywords: adult
+  Matched Categories: Adult
+
+Domain: sexports33.com
+  Matched Keywords: sex
+  Matched Categories: Adult
+
+Domain: jotaveslots.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: lodiporn.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: 988slot.net
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: xxxneoncity.com
+  Matched Keywords: xxx
+  Matched Categories: Adult
+
+Domain: h3bet.biz
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: 505porn.com
+  Matched Keywords: porn
+  Matched Categories: Adult
+
+Domain: sun-slot.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: sohib-slot.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: 321betz.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: usutotoslot.org
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: slotmudahjp.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: thecasinodaily.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: slot-fullwait.com
+  Matched Keywords: slot
+  Matched Categories: Gambling
+
+Domain: yourskinnyfiberpill.com
+  Matched Keywords: pill
+  Matched Categories: Pharmaceutical
+
+Domain: bettingsitesinghana.com
+  Matched Keywords: bet
+  Matched Categories: Gambling
+
+Domain: cialisdosage6online.com
+  Matched Keywords: cialis
+  Matched Categories: Adult
+
+Domain: wellbutrinbupropionpill.com
+  Matched Keywords: pill
+  Matched Categories: Pharmaceutical
+
+Domain: casinocrystal756.com
+  Matched Keywords: casino
+  Matched Categories: Gambling
+
+Domain: korea-dating-tips.com
+  Matched Keywords: dating
+  Matched Categories: Adult
+
+Domain: lowest-price-cialis-generic.com
+  Matched Keywords: cialis
+  Matched Categories: Adult
+

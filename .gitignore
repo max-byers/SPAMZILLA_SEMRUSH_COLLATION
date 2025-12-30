@@ -1,0 +1,26 @@
+﻿# Secrets
+.env
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / exports (adjust as needed)
+*_SEMRUSH_backlinks/
+*_SEMRUSH_comparison/
+*_SEMRUSH_outbounds/
+SEMRUSH_BACKLINKS/
+BACKLINK_CSV_FILES/
+SPAMZILLA_DOMAIN_EXPORTS/
+SPAM_EXPORTS/
+export-*.csv
+*.xlsx
+*.csv

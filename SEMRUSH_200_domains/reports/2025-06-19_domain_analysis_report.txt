@@ -1,0 +1,44 @@
+Domain Analysis Report - 2025-06-19
+==================================================
+
+Total Domains Analyzed: 2202
+Unsuitable Domains: 89
+Percentage Unsuitable: 4.04%
+Domains with Excessive Drops (>2): 282
+Percentage with Excessive Drops: 12.81%
+Previously Sold Domains: 103
+Percentage Previously Sold: 4.68%
+
+Category Breakdown:
+Adult: 18 domains
+Gambling: 66 domains
+Pharmaceutical: 5 domains
+
+Clean Domains Expiring Each Day (Next 7 Days):
+--------------------------------------------------
+2025-06-19: 0 domains
+2025-06-20: 0 domains
+2025-06-21: 0 domains
+2025-06-22: 0 domains
+2025-06-23: 0 domains
+2025-06-24: 0 domains
+2025-06-25: 0 domains
+2025-06-26: 0 domains
+
+Detailed Domain Exclusion Breakdown:
+--------------------------------------------------
+1. Dodgy Keywords: 89 domains
+2. Excessive Drops: 282 domains
+3. Previously Sold: 103 domains
+4. Age/Drop Ratio <= 2: 44 domains
+5. Clean Domains Available: 1684 domains
+
+Auction Source Breakdown (All Domains):
+--------------------------------------------------
+GoDaddy Auctions: 1299 domains (58.99%)
+Namecheap Auctions: 903 domains (41.01%)
+
+Auction Source Breakdown (Previously Sold Domains):
+--------------------------------------------------
+Namecheap Auctions: 100 domains (97.09%)
+GoDaddy Auctions: 3 domains (2.91%)

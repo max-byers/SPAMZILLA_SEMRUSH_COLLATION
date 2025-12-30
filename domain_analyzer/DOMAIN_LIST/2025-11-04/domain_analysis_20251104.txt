@@ -1,0 +1,17 @@
+DOMAIN ANALYSIS REPORT
+=====================
+
+Total Domains Analyzed: 1817
+Accepted Domains: 972 (53.49%)
+Rejected Domains: 845 (46.51%)
+
+REJECTION REASONS ANALYSIS
+-------------------------
+Low Authority Score (AS<3): 825 domains (97.63% of rejected)
+Prohibited topics: adult: 42 domains (4.97% of rejected)
+Prohibited topics: gambling: 6 domains (0.71% of rejected)
+Prohibited topics: pharmacy: 3 domains (0.36% of rejected)
+
+MULTIPLE REJECTION REASONS
+-------------------------
+Domains rejected for multiple reasons: 31 (3.67% of rejected)
