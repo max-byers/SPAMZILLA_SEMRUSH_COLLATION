@@ -6,7 +6,7 @@ SPAM_EXPORTS_DIR = os.path.join(os.path.dirname(__file__), '..', 'SPAM_EXPORTS')
 # Configuration for input file
 class SpamzillaConfig:
     # Default input file name (can be overridden)
-    INPUT_FILE = 'Check_domains_results.2025-12-04 23_14.csv'
+    INPUT_FILE = 'Check_domains_results.2026-01-04 04_22.csv'
 
     @classmethod
     def get_input_file_path(cls):
